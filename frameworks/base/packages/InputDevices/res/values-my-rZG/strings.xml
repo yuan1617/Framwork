@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">အသြင္းကိရိယာမ်ား</string>
+    <string name="keyboard_layouts_label">Android ကီးဘုတ္</string>
+    <string name="keyboard_layout_english_uk_label">အဂၤလိပ္ (UK)</string>
+    <string name="keyboard_layout_english_us_label">အဂၤလိပ္ (US)</string>
+    <string name="keyboard_layout_english_us_intl">အဂၤလိပ္ (ယူအက္စ္)၊ ႏိုင္ငံတကာစတိုင္လ္</string>
+    <string name="keyboard_layout_english_us_colemak_label">အဂၤလိပ္ (ယူအက္စ္)၊ ကိုးလ္မက္စတိုင္လ္</string>
+    <string name="keyboard_layout_english_us_dvorak_label">အဂၤလိပ္ (ယူအက္စ္)၊ ေဗာရက္စတိုင္လ္</string>
+    <string name="keyboard_layout_german_label">ဂ်ာမန္ ဘာသာစကား</string>
+    <string name="keyboard_layout_french_label">ျပင္သစ္</string>
+    <string name="keyboard_layout_french_ca_label">ျပင္သစ္ (ကေနဒါ)</string>
+    <string name="keyboard_layout_russian_label">႐ုရွ ဘာသာစကား</string>
+    <string name="keyboard_layout_russian_mac_label">႐ုရွ ဘာသာစကား၊ မက္ စတိုင္</string>
+    <string name="keyboard_layout_spanish_label">စပိန္</string>
+    <string name="keyboard_layout_swiss_french_label">ဆြစ္ ျပင္သစ္ ဘာသာစကား</string>
+    <string name="keyboard_layout_swiss_german_label">ဆြစ္ ဂ်ာမန္ ဘာသာစကား</string>
+    <string name="keyboard_layout_belgian">ဘယ္လ္ဂ်ီယန္ ဘာသာစကား</string>
+    <string name="keyboard_layout_bulgarian">ဘူေဂးရီးယား ဘာသာစကား</string>
+    <string name="keyboard_layout_italian">အီတလီ ဘာသာစကား</string>
+    <string name="keyboard_layout_danish">ဒိန္းမတ္ ဘာသာစကား</string>
+    <string name="keyboard_layout_norwegian">ေနာ္ေဝ ဘာသာစကား</string>
+    <string name="keyboard_layout_swedish">ဆြီဒင္ ဘာသာစကား</string>
+    <string name="keyboard_layout_finnish">ဖင္လန္ ဘာသာစကား</string>
+    <string name="keyboard_layout_croatian">ခ႐ိုေအးရွား ဘာသာစကား</string>
+    <string name="keyboard_layout_czech">ခ်က္(ခ္) ဘာသာစကား</string>
+    <string name="keyboard_layout_estonian">အက္စ္တိုးနီးယား ဘာသာစကား</string>
+    <string name="keyboard_layout_hungarian">ဟန္ေဂရီ ဘာသာစကား</string>
+    <string name="keyboard_layout_icelandic">အိုက္(စ္)လန္း ဘာသာစကား</string>
+    <string name="keyboard_layout_brazilian">ဘရာဇီး ဘာသာစကား</string>
+    <string name="keyboard_layout_portuguese">ေပၚတူကီ ဘာသာစကား</string>
+    <string name="keyboard_layout_slovak">ဆလိုဗက္ ဘာသာစကား</string>
+    <string name="keyboard_layout_slovenian">ဆလိုေဗးနီးယား ဘာသာစကား</string>
+    <string name="keyboard_layout_turkish">တူရကီ ဘာသာစကား</string>
+    <string name="keyboard_layout_ukrainian">ယူကရိန္း ဘာသာစကား</string>
+    <string name="keyboard_layout_arabic">အာေရဗ် ဘာသာစကား</string>
+    <string name="keyboard_layout_greek">ဂရိ ဘာသာစကား</string>
+    <string name="keyboard_layout_hebrew">ဟီဘ႐ူး</string>
+    <string name="keyboard_layout_lithuanian">လစ္သူေရးနီးယား ဘာသာစကား</string>
+    <string name="keyboard_layout_spanish_latin">စပိန္ ဘာသာစကား (လက္တင္)</string>
+    <string name="keyboard_layout_latvian">လတ္ဗီးယား ဘာသာစကား</string>
+</resources>

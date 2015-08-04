@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); 
+ * you may not use this file except in compliance with the License. 
+ * You may obtain a copy of the License at 
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0 
+ *
+ * Unless required by applicable law or agreed to in writing, software 
+ * distributed under the License is distributed on an "AS IS" BASIS, 
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+ * See the License for the specific language governing permissions and 
+ * limitations under the License.
+ */
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <string name="app_label">System-UI</string>
+
+    
+    <string name="status_bar_clear_all_button">Löschen</string>
+
+    
+    <string name="status_bar_recent_remove_item_title">Aus Liste entfernen</string>
+
+    
+    <string name="status_bar_recent_inspect_item_title">App-Info</string>
+
+    
+    <string name="status_bar_no_recent_apps">Keine kürzlich verwendeten Apps</string>
+
+    
+    <string name="status_bar_accessibility_dismiss_recents">Kürzlich verwendeten Apps verwerfen</string>
+
+    
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="one">1 kürzlich verwendete App</item>
+        <item quantity="other">%d Kürzlich verwendete Apps</item>
+    </plurals>
+
+    
+    <string name="status_bar_no_notifications_title">Keine Benachrichtigungen</string>
+
+    
+    <string name="status_bar_ongoing_events_title">Laufend</string>
+
+    
+    <string name="status_bar_latest_events_title">Benachrichtigungen</string>
+
+    
+    <string name="battery_low_title">Ladegerät anschließen</string>
+
+    
+    <string name="battery_low_subtitle">Batterieleistung gering</string>
+
+    
+    <string name="battery_low_percent_format"><xliff:g id="number">%d%%</xliff:g> verbleibend</string>
+
+    
+    <string name="invalid_charger">Über USB laden wird nicht unterstützt.\nVerwenden Sie ausschließlich das mitgelieferte Ladegerät.</string>
+
+    
+    <string name="battery_low_why">Batterieverbrauch</string>
+
+    
+    <string name="status_bar_settings_settings_button">Einstellungen</string>
+
+    
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+
+    
+    <string name="status_bar_settings_airplane">Flugmodus</string>
+
+    
+    <string name="status_bar_settings_auto_rotation">Bildschirm automatisch drehen</string>
+
+    
+    <string name="status_bar_settings_mute_label">STUMM SCHALTEN</string>
+
+    
+    <string name="status_bar_settings_auto_brightness_label">AUTO</string>
+
+    
+    <string name="status_bar_settings_notifications">Benachrichtigungen</string>
+
+    
+    
+
+    
+    <string name="status_bar_network_name_separator" product="default">" \u2014 "</string>
+
+    
+    <string name="bluetooth_tethered">Bluetooth angebunden</string>
+    
+    <string name="status_bar_input_method_settings_configure_input_methods">Eingabemethoden einrichten</string>
+
+    
+    <string name="status_bar_use_physical_keyboard">Physikalische Tastatur</string>
+
+    
+    <string name="usb_device_permission_prompt">Erlauben Sie der App <xliff:g id="application">%1$s</xliff:g> den Zugriff auf das USB-Gerät?</string>
+
+    
+    <string name="usb_accessory_permission_prompt">Erlauben Sie der App <xliff:g id="application">%1$s</xliff:g> auf das USB-Zubehör zuzugreifen?</string>
+
+    
+    <string name="usb_device_confirm_prompt"><xliff:g id="activity">%1$s</xliff:g> öffnen, wenn dieses USB-Gerät verbunden ist?</string>
+
+    
+    <string name="usb_accessory_confirm_prompt"><xliff:g id="activity">%1$s</xliff:g> öffnen, wenn das USB-Zubehör angeschlossen ist?</string>
+
+    
+    <string name="usb_accessory_uri_prompt">Nicht installierte Apps arbeiten mit dem USB-Zubehör. Erfahren Sie mehr über dieses Zubehör unter <xliff:g id="url">%1$s</xliff:g></string>
+
+    
+    <string name="title_usb_accessory">USB-Zubehör</string>
+
+    
+    <string name="label_view">Anzeigen</string>
+
+    
+    <string name="always_use_device">Vorgabe-USB-Gerät verwenden</string>
+
+    
+    <string name="always_use_accessory">Als Vorgabe dieses USB-Gerät verwenden.</string>
+
+    
+    <string name="usb_debugging_title">USB-Fehlersuche erlauben?</string>
+
+    
+    <string name="usb_debugging_message">Der RSA-Fingerabdruck des Computers ist:\n<xliff:g id="fingerprint">%1$s</xliff:g></string>
+
+    
+    <string name="usb_debugging_always">Immer über diesen Computer erlauben</string>
+
+    
+    <string name="compat_mode_on">Auf Vollbilddarstellung vergrößern</string>
+
+    
+    <string name="compat_mode_off">Auf Vollbilddarstellung strecken</string>
+
+    
+    <string name="screenshot_saving_ticker">Screenshot speichern\u2026</string>
+    
+    <string name="screenshot_saving_title">Screenshot speichern\u2026</string>
+    
+    <string name="screenshot_saving_text">Der Screenshot wird gespeichert.</string>
+    
+    <string name="screenshot_saved_title">Screenshot aufgenommen.</string>
+    
+    <string name="screenshot_saved_text">Antippen, um den Screenshot anzuzeigen.</string>
+    
+    <string name="screenshot_failed_title">Screenshot konnte nicht aufgenommen werden.</string>
+    
+    <string name="screenshot_failed_text">Screenshot konnte nicht gespeichert werden. Speicher wird evtl. verwendet.</string>
+
+    
+    <string name="usb_preference_title">USB-Dateitransferoptionen</string>
+    
+    <string name="use_mtp_button_title">Als Media-Player (MTP) einrichten</string>
+    
+    <string name="use_ptp_button_title">Als Kamera (PTP) einrichten</string>
+    
+    <string name="installer_cd_button_title">Android-Dateitransfer für Mac installieren</string>
+
+    
+    <string name="accessibility_back">Zurück</string>
+    
+    <string name="accessibility_home">Home</string>
+    
+    <string name="accessibility_menu">Menü</string>
+    
+    <string name="accessibility_recent">Kürzl. verwendete Apps</string>
+    
+    <string name="accessibility_search_light">Suchen</string>
+    
+    <string name="accessibility_camera_button">Kamera</string>
+
+    
+    <string name="accessibility_ime_switch_button">Schaltfläche Eingabemethode umschalten</string>
+    
+    <string name="accessibility_compatibility_zoom_button">Kompatibilitäts-Zoom-Schaltfläche</string>
+
+    
+    <string name="accessibility_compatibility_zoom_example">Von kleiner auf große Darstellung vergrößern</string>
+
+    
+    <string name="accessibility_bluetooth_connected">Bluetooth verbunden</string>
+    
+    <string name="accessibility_bluetooth_disconnected">Bluetooth getrennt</string>
+
+    
+    <string name="accessibility_no_battery">Keine Batterie</string>
+    
+    <string name="accessibility_battery_one_bar">Batterie 1 Balken</string>
+    
+    <string name="accessibility_battery_two_bars">Batterie 2 Balken</string>
+     
+    <string name="accessibility_battery_three_bars">Batterie 3 Balken</string>
+    
+    <string name="accessibility_battery_full">Batterie voll</string>
+
+    
+    <string name="accessibility_no_phone">Kein Telefonempfang</string>
+    
+    <string name="accessibility_phone_one_bar">Telefon 1 Balken</string>
+    
+    <string name="accessibility_phone_two_bars">Telefon 2 Balken</string>
+    
+    <string name="accessibility_phone_three_bars">Telefon 3 Balken</string>
+    
+    <string name="accessibility_phone_signal_full">Telefonempfang voll</string>
+
+    
+    <string name="accessibility_no_data">Kein Datenempfang</string>
+    
+    <string name="accessibility_data_one_bar">Daten 1 Balken</string>
+    
+    <string name="accessibility_data_two_bars">Daten 2 Balken</string>
+    
+    <string name="accessibility_data_three_bars">Daten 3 Balken</string>
+    
+    <string name="accessibility_data_signal_full">Datenempfang voll</string>
+
+    
+    <string name="accessibility_wifi_off">Wi-Fi aus</string>
+    
+    <string name="accessibility_no_wifi">Wi-Fi getrennt</string>
+    
+    <string name="accessibility_wifi_one_bar">Wi-Fi 1 Balken</string>
+    
+    <string name="accessibility_wifi_two_bars">Wi-Fi 2 Balken</string>
+    
+    <string name="accessibility_wifi_three_bars">Wi-Fi 3 Balken</string>
+    
+    <string name="accessibility_wifi_signal_full">Wi-Fi-Empfang voll</string>
+
+    
+    <string name="accessibility_no_wimax">Kein WiMAX</string>
+    
+    <string name="accessibility_wimax_one_bar">WiMAX 1 Balken</string>
+    
+    <string name="accessibility_wimax_two_bars">WiMAX 2 Balken</string>
+    
+    <string name="accessibility_wimax_three_bars">WiMAX 3 Balken</string>
+    
+    <string name="accessibility_wimax_signal_full">WiMAX-Empfang voll</string>
+
+    
+    <string name="accessibility_no_signal">Kein Signal</string>
+    
+    <string name="accessibility_not_connected">Nicht verbunden</string>
+    
+    <string name="accessibility_zero_bars">Keine Balken</string>
+    
+    <string name="accessibility_one_bar">1 Balken</string>
+    
+    <string name="accessibility_two_bars">2 Balken</string>
+    
+    <string name="accessibility_three_bars">3 Balken</string>
+    
+    <string name="accessibility_signal_full">Empfang voll</string>
+
+    
+    <string name="accessibility_desc_on">Ein</string>
+    
+    <string name="accessibility_desc_off">Aus</string>
+    
+    <string name="accessibility_desc_connected">Verbunden</string>
+
+    
+    <string name="accessibility_data_connection_gprs">GPRS</string>
+
+    
+    <string name="accessibility_data_connection_1x">1 X</string>
+
+    
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+
+    
+    <string name="accessibility_data_connection_3g">3G</string>
+
+    
+    <string name="accessibility_data_connection_3.5g">3.5G</string>
+
+    
+    <string name="accessibility_data_connection_4g">4G</string>
+
+    
+    <string name="accessibility_data_connection_lte">LTE</string>
+
+    
+    <string name="accessibility_data_connection_cdma">CDMA</string>
+
+    
+    <string name="accessibility_data_connection_roaming">Roaming</string>
+
+    
+    <string name="accessibility_data_connection_edge">Edge</string>
+
+    
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+
+    
+    <string name="accessibility_no_sim">Keine SIM</string>
+
+    
+    <string name="accessibility_bluetooth_tether">Bluetooth-Anbindung</string>
+
+    
+    <string name="accessibility_airplane_mode">Flugmodus</string>
+
+    
+    <string name="accessibility_battery_level">Batterie <xliff:g id="number">%d</xliff:g> Prozent</string>
+
+    
+    <string name="accessibility_settings_button">Systemeinstellungen</string>
+
+    
+    <string name="accessibility_notifications_button">Benachrichtigungen</string>
+
+    
+    <string name="accessibility_remove_notification">Benachrichtigungen löschen</string>
+
+    
+    <string name="accessibility_gps_enabled">GPS aktiviert</string>
+
+    
+    <string name="accessibility_gps_acquiring">GPS erfassen</string>
+
+    
+    <string name="accessibility_tty_enabled">TTY aktiviert</string>
+
+    
+    <string name="accessibility_ringer_vibrate">Wecker vibriert</string>
+
+    
+    <string name="accessibility_ringer_silent">Wecker stumm</string>
+
+    
+    <string name="accessibility_recents_item_dismissed"><xliff:g id="app" example="Calendar">%s</xliff:g> abgelehnt.</string>
+    
+    <string name="accessibility_notification_dismissed">Benachrichtigung abgelehnt</string>
+
+    
+    <string name="accessibility_desc_notification_shade">Benachrichtigung abgedunkelt</string>
+    
+    <string name="accessibility_desc_quick_settings">Schnelleinstellungen</string>
+    
+    <string name="accessibility_desc_recent_apps">Kürzl. verwendete Apps</string>
+
+    
+    <string name="accessibility_quick_settings_user">Benutzer <xliff:g id="user" example="JohnDoe">%s</xliff:g>.</string>
+    
+    <string name="accessibility_quick_settings_wifi"><xliff:g id="signal" example="Threebars">%1$s</xliff:g>. <xliff:g id="network" example="MyWifiNetwork">%2$s</xliff:g></string>
+    
+    <string name="accessibility_quick_settings_mobile">Mobile <xliff:g id="signal" example="Threebars">%1$s</xliff:g>. <xliff:g id="type" example="4G">%2$s</xliff:g>. <xliff:g id="network" example="T-Mobile">%3$s</xliff:g>.</string>
+    
+    <string name="accessibility_quick_settings_battery">Batterie <xliff:g id="state" example="50%charging">%s</xliff:g>.</string>
+    
+    <string name="accessibility_quick_settings_airplane">Flugmodus <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+    
+    <string name="accessibility_quick_settings_bluetooth">Bluetooth <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+    
+    <string name="accessibility_quick_settings_alarm">Wecker eingestellt für <xliff:g id="time" example="Wed3:30PM">%s</xliff:g>.</string>
+
+    
+    <string name="data_usage_disabled_dialog_3g_title">2G-3G-Daten deaktiviert</string>
+    
+    <string name="data_usage_disabled_dialog_4g_title">4G-Daten deaktiviert</string>
+    
+    <string name="data_usage_disabled_dialog_mobile_title">Mobile Daten deaktiviert</string>
+    
+    <string name="data_usage_disabled_dialog_title">Daten deaktiviert</string>
+    
+    <string name="data_usage_disabled_dialog">Sie haben die vorgegebene Datenmenge erreicht.\n\nWenn Sie die Datenverbindung wieder aktivieren, kann dies zu zusätzlichen Kosten durch Ihren Anbieter führen.</string>
+    
+    <string name="data_usage_disabled_dialog_enable">Daten erneut aktivieren</string>
+
+    
+    <string name="status_bar_settings_signal_meter_disconnected">Keine Inet-Verbindung</string>
+
+    
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi verbunden</string>
+
+    
+    <string name="gps_notification_searching_text">Nach GPS suchen</string>
+
+    
+    <string name="gps_notification_found_text">Standort über GPS gesetzt</string>
+
+    
+    <string name="accessibility_location_active">Standortabfrage aktiv</string>
+
+    
+    <string name="accessibility_clear_all">Alle Benachrichtigungen löschen</string>
+
+    
+    <string name="status_bar_notification_inspect_item_title">App-Info</string>
+
+    
+    <string name="accessibility_rotation_lock_off">Bildschirm wird automatisch gedreht</string>
+
+    
+    <string name="accessibility_rotation_lock_on_landscape">Bildschirm ist im Querformat verriegelt</string>
+
+    
+    <string name="accessibility_rotation_lock_on_portrait">Bildschirm ist im Hochformat verriegelt</string>
+
+    
+    <string name="dessert_case">Dessertvitrine</string>
+
+    
+    <string name="start_dreams">Tagtraum</string>
+
+    
+    <string name="ethernet_label">Ethernet</string>
+
+    
+    <string name="quick_settings_airplane_mode_label">Flugmodus</string>
+    
+    <string name="quick_settings_battery_charging_label">Wird geladen, <xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
+    
+    <string name="quick_settings_battery_charged_label">Geladen</string>
+    
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    
+    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (<xliff:g id="number">%d</xliff:g> Geräte)</string>
+    
+    <string name="quick_settings_bluetooth_off_label">Bluetooth aus</string>
+    
+    <string name="quick_settings_brightness_label">Helligkeit</string>
+    
+    <string name="quick_settings_rotation_unlocked_label">Automatisch drehen</string>
+    
+    <string name="quick_settings_rotation_locked_label">Drehen gesperrt</string>
+    
+    <string name="quick_settings_ime_label">Eingabemethode</string>
+    
+    <string name="quick_settings_location_label">Standort</string>
+    
+    <string name="quick_settings_location_off_label">Standort aus</string>
+    
+    <string name="quick_settings_media_device_label">Mediengerät</string>
+    
+    <string name="quick_settings_rssi_label">RSSI</string>
+    
+    <string name="quick_settings_rssi_emergency_only">Nur Notruf</string>
+    
+    <string name="quick_settings_settings_label">Einstellungen</string>
+    
+    <string name="quick_settings_time_label">Zeit</string>
+    
+    <string name="quick_settings_user_label">Ich</string>
+    
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    
+    <string name="quick_settings_wifi_not_connected">Nicht verbunden</string>
+    
+    <string name="quick_settings_wifi_no_network">Kein Netzwerk</string>
+    
+    <string name="quick_settings_wifi_off_label">Wi-Fi aus</string>
+    
+    <string name="quick_settings_wifi_display_label">Wi-Fi-Anzeige</string>
+    
+    <string name="quick_settings_wifi_display_no_connection_label">Drahtlose Anzeige</string>
+    
+    <string name="quick_settings_brightness_dialog_title">Helligkeit</string>
+    
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
+
+
+    
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
+
+    
+    <string name="ssl_ca_cert_warning">Netzwerk \nevtl. überwacht</string>
+
+    <string name="accessibility_quick_settings_location">Position <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+    <string name="quick_settings_remote_display_no_connection_label">Projektionswände</string>
+    <string name="battery_saver_confirmation_ok">Einschalten</string>
+    <string name="accessibility_phone_button">Telefon</string>
+    <string name="accessibility_unlock_button">Entsperren</string>
+    <string name="unlock_label">Entsperren</string>
+    <string name="accessibility_desc_settings">Einstellungen</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth verbunden</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Bildschirm ist nun im Querformat verriegelt.</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Landschaft</string>
+    <string name="quick_settings_user_title">Benutzer</string>
+    <string name="quick_settings_user_new_user">Neuer Benutzer</string>
+    <string name="quick_settings_cast_title">Cast-Bildschirm</string>
+    <string name="quick_settings_done">Erledigt</string>
+    <string name="quick_settings_connected">Verbunden</string>
+    <string name="quick_settings_connecting">"Verbindung wird hergestellt..."</string>
+    <string name="quick_settings_tethering_label">Anbindung</string>
+    <string name="quick_settings_notifications_label">Benachrichtigungen</string>
+    <string name="quick_settings_cellular_detail_data_usage">Datennutzung</string>
+    <string name="recents_app_info_button_label">ANWENDUNGS-INFO</string>
+    <string name="recents_search_bar_label">Suchen</string>
+    <string name="expanded_header_battery_charged">Geladen</string>
+    <string name="expanded_header_battery_charging">Wird geladen, <xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
+    <string name="description_target_search">Suchen</string>
+    <string name="description_direction_up">Nach oben schieben <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
+    <string name="description_direction_left">Nach links schieben <xliff:g id="target_description" example="Unlock">%s</xliff:g>.</string>
+    <string name="interruption_level_none">"Keine"</string>
+    <string name="interruption_level_priority">Priorität</string>
+    <string name="interruption_level_all">Alles</string>
+    <string name="user_add_user">Benutzer hinzufügen</string>
+    <string name="user_new_user_name">Neuer Benutzer</string>
+    <string name="guest_exit_guest_dialog_remove">Entfernen</string>
+    <string name="guest_wipe_session_wipe">Neu starten</string>
+    <string name="clear_all_notifications_text">Alles aufheben</string>
+    <string name="media_projection_action_text">Jetzt starten</string>
+    <string name="empty_shade_text">Keine Benachrichtigungen</string>
+    <string name="vpn_footer">"Das Netzwerk wird möglicherweise überwacht."</string>
+    <string name="monitoring_title">Netzwerküberwachung</string>
+    <string name="hidden_notifications_cancel">Nein danke</string>
+    <string name="hidden_notifications_setup">Einrichten</string>
+    <string name="battery_low_percent_format_saver_started"><xliff:g id="number">%d%%</xliff:g> verbleibend. Akkusparmodus ist an.</string>
+    <string name="invalid_charger_title">Laden über USB wird nicht unterstützt.</string>
+    <string name="invalid_charger_text">Verwenden Sie ausschließlich das mitgelieferte Ladegerät.</string>
+    <string name="battery_saver_confirmation_title">Akkusparmodus einschalten?</string>
+    <string name="battery_saver_start_action">Akkusparmodus eingeschalten</string>
+    <string name="phone_label">Telefon öffnen</string>
+    <string name="camera_label">Kamera öffnen</string>
+    <string name="accessibility_wifi_name">Verbunden mit <xliff:g id="wifi" example="HomeNetwork">%s</xliff:g>.</string>
+    <string name="accessibility_bluetooth_name">Verbunden mit <xliff:g id="bluetooth" example="CarAudio">%s</xliff:g>.</string>
+    <string name="accessibility_desc_connecting">Wird verbunden. </string>
+    <string name="accessibility_recents_item_will_be_dismissed"><xliff:g id="app" example="Calendar">%s</xliff:g> ablehnen.</string>
+    <string name="accessibility_recents_item_launched"><xliff:g id="app" example="Calendar">%s</xliff:g> wird gestartet.</string>
+    <string name="accessibility_desc_lock_screen">Bildschirm sperren.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi ausgeschaltet.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi eingeschaltet.</string>
+    <string name="accessibility_quick_settings_airplane_off">Flugmodus aus.</string>
+    <string name="accessibility_quick_settings_airplane_on">Flugmodus ein.</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">Flugmodus ausgeschaltet.</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">Flugmodus eingeschaltet.</string>
+    <string name="accessibility_quick_settings_bluetooth_off">Bluetooth aus.</string>
+    <string name="accessibility_quick_settings_bluetooth_on">Bluetooth ein.</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth wird verbunden.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth ausgeschaltet.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth eingeschaltet.</string>
+    <string name="accessibility_quick_settings_location_off">Standort senden aus.</string>
+    <string name="accessibility_quick_settings_location_on">Standort senden ein.</string>
+    <string name="accessibility_quick_settings_location_changed_off">Standort senden ausgeschaltet.</string>
+    <string name="accessibility_quick_settings_location_changed_on">Standort senden eingeschaltet.</string>
+    <string name="accessibility_quick_settings_close">Feld schließen.</string>
+    <string name="accessibility_quick_settings_more_time">Mehr Zeit.</string>
+    <string name="accessibility_quick_settings_less_time">Weniger Zeit.</string>
+    <string name="accessibility_quick_settings_flashlight_off">Blitzlicht aus.</string>
+    <string name="accessibility_quick_settings_flashlight_on">Blitzlicht ein.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">Blitzlicht ausgeschaltet.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Blitzlicht eingeschaltet.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">Farbumkehr ausgeschaltet.</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">Farbumkehr eingeschaltet.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Mobiler Hotspot ausgeschaltet.</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Mobiler Hotspot eingeschaltet.</string>
+    <string name="accessibility_casting_turned_off">Screen-Casting gestoppt.</string>
+    <string name="accessibility_brightness">Anzeigehelligkeit</string>
+    <string name="accessibility_rotation_lock_off_changed">Bildschirm wird nun automatisch gedreht.</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Bildschirm ist nun im Hochformat verriegelt.</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Kein gepaartes Gerät verfügbar</string>
+    <string name="quick_settings_wifi_detail_empty_text">Kein gespeichertes Netzwerk verfügbar</string>
+    <string name="quick_settings_casting">Casting</string>
+    <string name="quick_settings_cast_device_default_name">Nicht benanntes Gerät</string>
+    <string name="quick_settings_cast_device_default_description">Bereit für Cast</string>
+    <string name="quick_settings_cast_detail_empty_text">Keine Geräte verfügbar</string>
+    <string name="quick_settings_inversion_label">Farben umkehren</string>
+    <string name="quick_settings_color_space_label">Farbkorrekturmodus</string>
+    <string name="quick_settings_more_settings">Weitere Einstellungen</string>
+    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_flashlight_label">Blitzlicht</string>
+    <string name="quick_settings_cellular_detail_title">Mobile Daten</string>
+    <string name="quick_settings_cellular_detail_remaining_data">Verbleibende Daten</string>
+    <string name="quick_settings_cellular_detail_data_used"><xliff:g id="data_used" example="2.0GB">%s</xliff:g> belegt</string>
+    <string name="quick_settings_cellular_detail_data_limit"><xliff:g id="data_limit" example="2.0GB">%s</xliff:g> Limit</string>
+    <string name="quick_settings_cellular_detail_data_warning"><xliff:g id="data_limit" example="2.0GB">%s</xliff:g> Warnung</string>
+    <string name="recents_empty_message">Keine kürzlich verwendeten Apps</string>
+    <string name="recents_lock_to_app_button_label">Mit App verknüpfen</string>
+    <string name="expanded_header_battery_charging_with_time"><xliff:g id="charging_time" example="2hrs25min">%s</xliff:g> bis geladen</string>
+    <string name="expanded_header_battery_not_charging">Lädt nicht</string>
+    <string name="zen_no_interruptions_with_warning">Keine Unterbrechungen Nicht einmal Warnungen. </string>
+    <string name="zen_no_interruptions">Keine Unterbrechungen</string>
+    <string name="zen_important_interruptions">Nur Prioritätsunterbrechungen</string>
+    <string name="zen_alarm_information_time">Nächste Weckereinstellung auf <xliff:g id="alarm_time" example="5:00PM">%s</xliff:g></string>
+    <string name="zen_alarm_information_day_time">Nächste Weckereinstellung <xliff:g id="alarm_day_and_time" example="Fri5:00PM">%s</xliff:g></string>
+    <string name="zen_alarm_warning">Sie können den Wecker um <xliff:g id="alarm_time" example="5:00PM">%s</xliff:g> nicht hören</string>
+    <string name="keyguard_more_overflow_text">+<xliff:g id="number_of_notifications" example="5">%d</xliff:g></string>
+    <string name="speed_bump_explanation">Weniger wichtige Benachrichtigungen unten</string>
+    <string name="notification_tap_again">Zum Öffnen noch mal antippen</string>
+    <string name="keyguard_unlock">Zum Entsperren nach oben wischen</string>
+    <string name="phone_hint">Für Telefon nach rechts wischen</string>
+    <string name="camera_hint">Für Kamera nach links wischen</string>
+    <string name="zen_mode_forever">Unendlich</string>
+    <string name="keyguard_indication_charging_time">Wird geladen (<xliff:g id="charging_time_left" example="4hoursand2minutes">%s</xliff:g> bis geladen)</string>
+    <string name="accessibility_multi_user_switch_switcher">Benutzer wechseln</string>
+    <string name="accessibility_multi_user_switch_quick_contact">Profil anzeigen</string>
+    <string name="guest_nickname">Gast</string>
+    <string name="guest_new_guest">Gast hinzufügen</string>
+    <string name="guest_exit_guest">Gast entfernen</string>
+    <string name="guest_exit_guest_dialog_title">Gast entfernen?</string>
+    <string name="guest_exit_guest_dialog_message">Alle Apps und Daten dieser Sitzung werden gelöscht.</string>
+    <string name="guest_wipe_session_title">Willkommen zurück Gast!</string>
+    <string name="guest_wipe_session_message">Wollen Sie mit Ihrer Sitzung fortfahren?</string>
+    <string name="guest_wipe_session_dontwipe">Ja, fortfahren</string>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="one">Für eine Minute</item>
+        <item quantity="other">Für %d Minuten</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="one">Für eine Stunde</item>
+        <item quantity="other">Für %d Stunden</item>
+    </plurals>
+    <string name="battery_saver_notification_title">Akkusparmodus ist an</string>
+    <string name="battery_saver_notification_text">Reduziert Leistung und Hintergrunddaten</string>
+    <string name="battery_saver_notification_action_text">Akkusparmodus ausschalten</string>
+    <string name="battery_level_template"><xliff:g id="level" example="45">%d</xliff:g>%%</string>
+    <string name="notification_hidden_text">Inhalt verborgen</string>
+    <string name="media_projection_dialog_text"><xliff:g id="app_seeking_permission" example="Hangouts">%s</xliff:g> erfasst alles, was auf Ihrem Bildschirm angezeigt wird.</string>
+    <string name="media_projection_remember_text">Nicht wieder anzeigen</string>
+    <string name="device_owned_footer">Gerät könnte überwacht werden</string>
+    <string name="profile_owned_footer">Profil könnte überwacht werden</string>
+    <string name="monitoring_title_device_owned">Geräteüberwachung</string>
+    <string name="monitoring_title_profile_owned">Profilüberwachung</string>
+    <string name="disable_vpn">VPN deaktivieren</string>
+    <string name="disconnect_vpn">VPN trennen</string>
+    <string name="monitoring_description_device_owned">Dieses Gerät wird verwaltet über:\n</string>
+    <string name="monitoring_description_vpn">Sie haben \"<xliff:g id="application">%1$s</xliff:g>\" die Erlaubnis erteilt eine VPN-Verbindung einzurichten.\n\nDiese App kann Ihr Gerät und Ihre Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und sichere Websites.</string>
+    <string name="monitoring_description_legacy_vpn">Sie sind mit einem VPN verbunden (\"<xliff:g id="application">%1$s</xliff:g>\").\n\nIhr VPN-Anbieter kann Ihr Gerät und Ihre Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und sichere Websites.</string>
+    <string name="monitoring_description_vpn_device_owned">Dieses Gerät wird durch:\n<xliff:g id="organization">%1$s</xliff:g>verwaltet.\n\nIhr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und sichere Websites. Weitere Information erhalten Sie von Ihrem Administrator.\n\nAußerdem haben Sie \"<xliff:g id="application">%2$s</xliff:g>\" die Erlaubnis erteilt eine VPN-Verbindung einzurichten. Auch diese App kann Ihre Netzwerkaktivitäten überwachen.</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">Dieses Gerät wird durch:\n<xliff:g id="organization">%1$s</xliff:g>verwaltet.\n\nIhr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und sichere Websites. Weitere Information erhalten Sie von Ihrem Administrator.\n\nAußerdem sind Sie mit einer VPN verbunden (\"<xliff:g id="application">%2$s</xliff:g>\"). Auch Ihr VPN-Anbieter kann Ihre Netzwerkaktivitäten überwachen.</string>
+    <string name="monitoring_description_profile_owned">Dieses Profil wird verwaltet über:\n</string>
+    <string name="monitoring_description_device_and_profile_owned">Dieses Gerät wird verwaltet über:\n</string>
+    <string name="monitoring_description_vpn_profile_owned">Dieses Profil wird durch:\n<xliff:g id="organization">%1$s</xliff:g>verwaltet.\n\nIhr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und sichere Websites. Weitere Information erhalten Sie von Ihrem Administrator.\n\nAußerdem haben Sie \"<xliff:g id="application">%2$s</xliff:g>\" die Erlaubnis erteilt eine VPN-Verbindung einzurichten. Auch diese App kann Ihre Netzwerkaktivitäten überwachen.</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">Dieses Profil wird durch:\n<xliff:g id="organization">%1$s</xliff:g>verwaltet.\n\nIhr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und sichere Websites. Weitere Information erhalten Sie von Ihrem Administrator.\n\nAußerdem sind Sie mit einer VPN verbunden (\"<xliff:g id="application">%2$s</xliff:g>\"). Auch Ihr VPN-Anbieter kann Ihre Netzwerkaktivitäten überwachen.</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">Dieses Gerät wird durch:\n<xliff:g id="organization">%1$s</xliff:g>verwaltet.\nIhr Profil wird über\n<xliff:g id="organization">%2$s</xliff:g>verwaltet.\n\nIhr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und sichere Websites. Weitere Information erhalten Sie von Ihrem Administrator.\n\nAußerdem haben Sie \"<xliff:g id="application">%3$s</xliff:g>\" die Erlaubnis erteilt eine VPN-Verbindung einzurichten. Auch diese App kann Ihre Netzwerkaktivitäten überwachen.</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">Dieses Gerät wird durch:\n<xliff:g id="organization">%1$s</xliff:g>verwaltet.\nIhr Profil wird über\n<xliff:g id="organization">%2$s</xliff:g>verwaltet.\n\nIhr Administrator kann Ihre Netzwerkaktivitäten überwachen, einschließlich E-Mails, Apps und sichere Websites. Weitere Information erhalten Sie von Ihrem Administrator.\n\nAußerdem sind Sie mit einer VPN verbunden (\"<xliff:g id="application">%3$s</xliff:g>\"). Auch Ihr VPN-Anbieter kann Ihre Netzwerkaktivitäten überwachen.</string>
+    <string name="keyguard_indication_trust_disabled">Gerät ist gesperrt, bis Sie es manuell entsperren</string>
+    <string name="hidden_notifications_title">Werden Sie schneller benachrichtigt</string>
+    <string name="hidden_notifications_text">Sehen Sie sie, bevor Sie entsperren</string>
+    <string name="muted_by">Stumm geschaltet durch <xliff:g id="third_party">%1$s</xliff:g></string>
+    <string name="recents_launch_error_message">Kann <xliff:g id="app" example="Calendar">%s</xliff:g> nicht starten.</string>
+    <string name="status_bar_notification_app_settings_title"><xliff:g id="app_name" example="Calendar">%s</xliff:g> Einstellungen</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Benutzer wechseln, aktueller Benutzer <xliff:g id="current_user_name" example="JohnDoe">%s</xliff:g></string>
+    <string name="user_add_user_title" msgid="2108112641783146007">Neuen Benutzer hinzufügen</string>
+    <string name="user_add_user_message_short" msgid="1511354412249044381">Wenn Sie einen neuen Benutzer hinzufügen, muss dieser seinen Bereich einrichten.nnJeder Benutzer kann für alle anderen Benutzer Apps aktualisieren.</string>
+    <string name="quick_settings_cellular_detail_over_limit">Limit erreicht – Datennutzung angehalten</string>
+    <string name="zen_mode_and_condition"><xliff:g id="zen_mode" example="Priority interruptions only">%1$s</xliff:g>. <xliff:g id="exit_condition" example="For one hour">%2$s</xliff:g></string>
+</resources>

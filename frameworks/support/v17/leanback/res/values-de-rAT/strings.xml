@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (C) 2014 The Android Open Source Project
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+  http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="orb_search_action">Suchaktion</string>
+    <string name="lb_search_bar_hint">Suchen</string>
+    <string name="lb_search_bar_hint_speech">Zum Suchen sprechen</string>
+    <string name="lb_search_bar_hint_with_title">Suche <xliff:g id="search context">%1$s</xliff:g></string>
+    <string name="lb_search_bar_hint_with_title_speech">Zum Suchen sprechen <xliff:g id="search context">%1$s</xliff:g></string>
+    <string name="lb_playback_controls_play">Wiedergeben</string>
+    <string name="lb_playback_controls_pause">"Pause"</string>
+    <string name="lb_playback_controls_fast_forward">Schnellvorlauf</string>
+    <string name="lb_playback_controls_rewind">Zurückspulen</string>
+    <string name="lb_playback_controls_skip_next">Nächste überspringen</string>
+    <string name="lb_playback_controls_skip_previous">Vorherige überspringen</string>
+    <string name="lb_playback_controls_more_actions">Weitere Aktionen</string>
+    <string name="lb_playback_controls_thumb_up">Daumen hoch abwählen</string>
+    <string name="lb_playback_controls_thumb_up_outline">Daumen hoch wählen</string>
+    <string name="lb_playback_controls_thumb_down">Daumen runter abwählen</string>
+    <string name="lb_playback_controls_thumb_down_outline">Daumen runter wählen</string>
+    <string name="lb_playback_controls_repeat_none">Keine wiederholen</string>
+    <string name="lb_playback_controls_repeat_all">Alle wiederholen</string>
+    <string name="lb_playback_controls_repeat_one">Eins wiederholen</string>
+    <string name="lb_playback_controls_shuffle_enable">Mischen aktivieren</string>
+    <string name="lb_playback_controls_shuffle_disable">Mischen deaktivieren</string>
+    <string name="lb_playback_controls_high_quality_enable">Hohe Qualität aktivieren</string>
+    <string name="lb_playback_controls_high_quality_disable">Hohe Qualität deaktivieren</string>
+    <string name="lb_playback_controls_closed_captioning_enable">Untertitel aktivieren</string>
+    <string name="lb_playback_controls_closed_captioning_disable">Untertitel deaktivieren</string>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wfd_sink_summary">دوسروں کے ذریعہ قابل بازیافت</string>
+
+    <string name="OK">ٹھیک ہے</string>  
+    <string name="application_guide_title">ڈیفالٹ SIM کارڈ میں تبدیل کریں</string>  
+    <string name="application_guide_content">ڈیفالٹ SIM کارڈ کو تبدیل کرنے کیلئے اطلاعات کی فہرست کو نیچے کھسکائیں</string> 
+    <string name="audio_profile">آڈیو پروفائلیں</string>
+    <string name="data_usage">ڈیٹا کا استعمال</string>
+    <string name="gemini_3g_disable_warning_case0">"آپ کو پہلے اس SIM کے لئے ڈيٹا گشت فعال کرنے کی ضرورت ہے جس کی وجہ سے قابل قدر گشت کے اخراجات لاگو ہوسکتے ہيں! کیا آپ ڈیٹا کے گشت کو فعال کرکے اس SIM کا انتخاب کرنا چاہتے ہیں؟"</string>  
+    <string name="gemini_3g_disable_warning_case1">"اس منتخب کردہ SIM کے ساتھ 3G خدمت دستیاب نہيں ہے۔ اس کی وجہ سے ممکن ہے کہ ڈیٹا لوڈ کرنے کی رفتار کم ہو۔ آپ ترتیبات &gt; وائرلیس اور نیٹورک &gt; موبائل نیٹورکس کے تحت 3G خدمت کی ترتیب تبدیل کرسکتے ہيں۔"</string>  
+    <string name="gemini_3g_disable_warning_case2">"اس منتخب کردہ SIM کے ساتھ 3G خدمت دستیاب نہيں ہے۔ اس کی وجہ سے ممکن ہے کہ ڈیٹا لوڈ کرنے کی رفتار کم ہو۔ آپ ترتیبات &gt; SIM انتظام کے تحت 3G خدمت کی ترتیب تبدیل کرسکتے ہيں۔"</string>  
+    <string name="gemini_3g_disable_warning_case3">"آپ کو پہلے اس SIM کے لئے ڈيٹا گشت فعال کرنے کی ضرورت ہے جس کی وجہ سے قابل قدر گشت کے اخراجات لاگو ہوسکتے ہيں! اس کے علاوہ، اس منتخب کردہ SIM کے ساتھ 3G کی خدمت دستیاب نہيں ہے۔ آپ ترتیبات &gt; وائرلیس اور نیٹورک &gt; موبائل نیٹورکس کے تحت 3G خدمت کی ترتیب تبدیل کرسکتے ہيں۔ کیا آپ ڈیٹا کے گشت کو فعال کرکے اس SIM کا انتخاب کرنا چاہتے ہیں؟"</string>  
+    <string name="gemini_3g_disable_warning_case4">"آپ کو پہلے اس SIM کے لئے ڈيٹا گشت فعال کرنے کی ضرورت ہے جس کی وجہ سے قابل قدر گشت کے اخراجات لاگو ہوسکتے ہيں! اس کے علاوہ، اس منتخب کردہ SIM کے ساتھ 3G کی خدمت دستیاب نہيں ہے۔ آپ ترتیبات &gt; SIM کے انتظام کے تحت 3G خدمت کی ترتیب تبدیل کرسکتے ہيں۔ کیا آپ ڈیٹا کے گشت کو فعال کرکے اس SIM کا انتخاب کرنا چاہتے ہیں؟"</string>  
+    <string name="user_owner">مالک</string>
+    <string name="eco_backlight_title">کفایتی بیک لائٹ</string>
+    <string name="eco_backlight_summary">پاور محفوظ کرنے کیلئے خود بخود بیک لائٹ کو موافق بنائیں</string>
+    <string name="phone_battery_low_subtitle">فون کی بیٹری کم ہورہی ہے۔</string>
+    <string name="smartbook_battery_low_subtitle">اسمارٹ فون کی بیٹری کم ہورہی ہے۔</string>
+    <string name="gemini_default_sim_always_ask">ہمیشہ پوچھیں</string>
+    <string name="gemini_default_sim_auto">خودکار</string>
+    <string name="accessibility_phone_four_bars">فون کے چار بارز</string>
+    <string name="sim_switch_tip">یہ SIM <xliff:g>%s</xliff:g> کیلئے بطور ڈیفالٹ SIM متعین تھا۔ ڈیفالٹ SIM کارڈ کو تبدیل کرنے کیلئے اسٹیٹس بار کو پکڑ کر گھسیٹیں۔</string>
+    <string name="remind_next_time">مجھے اگلی بار یاددہانی کروائیں</string>
+    <string name="voice_call_service">وائس کال خدمت</string>
+    <string name="messages_service">پیغام کی سروس</string>
+    <string name="data_connection_service">ڈیٹا کنکشن سروس</string>
+    <string name="plmn_searching">تلاش کررہا ہے</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="mobile">ڈیٹا کنکشن</string>
+    <string name="gps">GPS</string>
+    <string name="autorotate">خودکار گھماؤ</string>
+    <string name="normal">عمومی</string>
+    <string name="meeting">میٹنگ</string>
+    <string name="mute">خاموش</string>
+    <string name="outdoor">آؤٹ ڈور</string>
+    <string name="offline">ہوائی جہاز وضع</string>
+    <string name="brightness">اجلا پن</string>
+    <string name="timeout">تعطل وقت</string>
+    <string name="data_connection_attach_timeout_error_msg">"ڈیٹا کنکشن ناکام یا ابھی نیٹ ورک مصروف ہے۔"</string>
+    <string name="data_connection_dettach_timeout_error_msg">"ڈیٹا کنکشن کو علیحدہ کرنا ناکام۔"</string>
+    <string name="data_connection_connected">[<xliff:g>%s</xliff:g>] SIM‏ ‏ڈیٹا کنکشن فعال ہوگیا</string>
+    <string name="gemini_intenet_call">انٹرنیٹ کال</string>
+    <string name="gemini_default_sim_never">آف</string>
+    <string name="gemini_3g_disable_warning">"اس منتخب کردہ SIM کے ساتھ 3G خدمت دستیاب نہيں ہے۔ اس کی وجہ سے ممکن ہے کہ ڈیٹا لوڈ کرنے کی رفتار کم ہو۔ آپ ترتیبات &gt; وائرلیس اور نیٹورک &gt; موبائل نیٹورکس کے تحت 3G خدمت کی ترتیب تبدیل کرسکتے ہيں۔"</string>
+    <string name="gemini_3g_disable_warning_cu">"اس منتخب کردہ SIM کے ساتھ 3G خدمت دستیاب نہيں ہے۔ اس کی وجہ سے ممکن ہے کہ ڈیٹا لوڈ کرنے کی رفتار کم ہو۔ آپ ترتیبات &gt; SIM انتظام کے تحت 3G خدمت کی ترتیب تبدیل کرسکتے ہيں۔"</string>
+    <string name="confirm_radio_title">SIM بند ہے</string>
+    <string name="confirm_radio_msg"><xliff:g id="operator_name" example="CMCC">%1$s</xliff:g> اب بند ہوگیا ہے۔ کیا آپ اس SIM کارڈ کو چالو کرنا چاہیں گے؟</string>
+    <string name="confirm_radio_msg_single">طیارے کی وضع اب چالوہوگئی ہے، کیا آپ اسے بند کرنا چاہیں گے؟</string>
+    <string name="confirm_radio_lbutton">چالو کریں</string>
+    <string name="builtin_installer_title_message">اندرونی ساختہ CD-ROM</string>
+    <string name="builtin_installer_dlg_message">اندرونی ساختہ CD-ROM آن کریں؟</string>
+    <string name="builtin_installer_always_allowed">اگلی بار نہ دکھائیں</string>
+    <string name="dlg_no">نہیں</string>
+    <string name="dlg_yes">ہاں</string>
+    <string name="apn">نقطۂ رسائی</string>
+    <string name="sim_management">UIM/SIM کا نظم</string>
+    <string name="network_selection_settings">نیٹ ورک کا انتخاب</string>
+    <string name="quick_settings_roam_data">ڈیٹا روم</string>
+    <string name="gemini_4g_3g_disable_warning_case1">"اس منتخب SIM کے ساتھ 4G/3G سروس دستیاب نہیں ہے۔ اس سے ڈیٹا سست رفتاری سے لوڈ ہوسکتا ہے۔ آپ سیٹنگز &gt; وائرلیس اینڈ نیٹ ورکس &gt; موبائل نیٹ ورکس کے تحت 4G/3G سروس کی سیٹنگ کو تبدیل کرسکتے ہیں۔ کیا آپ واقعی یہ SIM منتخب کرنا چاہتے ہیں؟"</string>
+    <string name="gemini_4g_3g_disable_warning_case2">"پہلے آپ کو اس SIM کے لیے ڈیٹا رومنگ فعال کرنا ہوگا جس سے کافی رومنگ چارجز عائد ہوسکتے ہیں! اسے کے علاوہ اس SIM کے ساتھ 4G/3G سروس دستیاب نہیں ہے۔ اس سے ڈیٹا سست رفتاری سے لوڈ ہوسکتا ہے۔ آپ آپ سیٹنگز &gt; وائرلیس اینڈ نیٹ ورکس &gt; موبائل نیٹ ورکس کے تحت اسے تبدیل کرسکتے ہیں۔ کیا آپ واقعی ڈیٹا رومنگ فعال کرنا اور اس SIM کو منتخب کرنا چاہتے ہیں؟"</string>
+    <string name="more">مزید</string>
+    <string name="quick_settings_data_sim_notset">ڈیٹا SIM سیٹ نہیں ہے</string>
+</resources>

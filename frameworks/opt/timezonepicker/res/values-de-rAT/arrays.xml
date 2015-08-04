@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_rename_labels">
+        <item>"Australian Central - NT"</item>
+        <item>"Australian Central - SA"</item>
+        <item>"Australian Eastern - QLD"</item>
+        <item>"Australian Eastern - NSW"</item>
+        <item>"Mountain Standard - Dawson Creek"</item>
+        <item>"Central Standard - Saskatchewan"</item>
+        <item>"Eastern Standard - Atikokan"</item>
+        <item>"Atlantic Standard - Quebec"</item>
+        <item>"Hawaii-Aleutian - Hawaii"</item>
+        <item>"Hawaii-Aleutian - Alaska"</item>
+        <item>"Pazifik Standard - Metlakatla"</item>
+        <item>"Mountain Standard - Arizona"</item>
+        <item>"Pazifik - Baja California"</item>
+        <item>"Mountain - Chihuahua"</item>
+        <item>"Central - Tamaulipas"</item>
+        <item>"Mountain - Sonora"</item>
+        <item>"Osteuropäische Zeit"</item>
+        <item>"Atlantic Standard Time"</item>
+        <item>"Atlantic Standard Time"</item>
+        <item>"Ostafrikanische Zeit"</item>
+        <item>"Kaliningrad-Zeit"</item>
+        <item>"Amazonas - Rondônia"</item>
+        <item>"Brasilia - Pará"</item>
+    </string-array>
+
+    <string-array name="backup_country_names">
+        <item>"Sint Maarten"</item>
+        <item>"Karibik, Niederlande"</item>
+        <item>"Curaçao"</item>
+        <item>"Südsudan"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mr_system_route_name">စနစ္</string>
+    <string name="mr_user_route_category_name">ကိရိယာမ်ား</string>
+    <string name="mr_media_route_button_content_description">မီဒီယာရလဒ္</string>
+    <string name="mr_media_route_chooser_title">ကိရိယာကို ခ်ိတ္ဆက္ပါ</string>
+    <string name="mr_media_route_chooser_searching">ကိရိယာမ်ားမ်ားကို ရွာေနသည္\u2026</string>
+    <string name="mr_media_route_controller_disconnect">ခ်ိတ္ဆက္မႈျဖဳတ္ရန္</string>
+</resources>

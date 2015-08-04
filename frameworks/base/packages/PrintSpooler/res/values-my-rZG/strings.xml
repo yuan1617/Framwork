@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">ပရင့္ စပူလာ</string>
+    <string name="advanced_settings_button">ပရင္တာ အဆင္အျပင္မ်ား</string>
+    <string name="print_button">ပရင့္ထုတ္ပါ</string>
+    <string name="save_button">သိမ္းဆည္းပါ</string>
+    <string name="label_destination">ဦးတည္ရာ</string>
+    <string name="label_copies">မိတၱဴမ်ား</string>
+    <string name="label_paper_size">စာရြက္ အရြယ္အစား</string>
+    <string name="label_color">အေရာင္</string>
+    <string name="label_orientation">အေနအထား</string>
+    <string name="label_pages">စာမ်က္ႏွာမ်ား (<xliff:g id="page_count" example="5">%1$s</xliff:g>)</string>
+    <string name="pages_range_example">e.g. 1—5,8,11—13</string>
+    <string name="print_preview">ပရင္ထုတ္ရန္ ႀကိဳတင္ၾကည့္ျခင္း</string>
+    <string name="install_for_print_preview">ႀကိဳတင္ၾကည့္ျခင္း အတြက္ PDF viewer ကို တပ္ဆင္ပါ</string>
+    <string name="printing_app_crashed">ပရင့္ထုတ္ေပးေသာ ပ႐ိုဂရမ္ ပ်က္စီးသြားသည္</string>
+    <string name="page_count_unknown">စာမ်က္ႏွာမ်ား</string>
+    <string name="generating_print_job">ပရင့္ထုတ္မည့္အလုပ္ကို ထုတ္လုပ္ေနသည္</string>
+    <string name="save_as_pdf">PDF အျဖစ္သိမ္းပါ</string>
+    <string name="all_printers">All printers…</string>
+    <string name="print_dialog">ပရင့္ ဒိုင္ယာေလာ့</string>
+    <string name="search">ရွာေဖြပါ</string>
+    <string name="all_printers_label">ပရင္တာမ်ားအားလံုး</string>
+    <string name="add_print_service_label">ဝန္ေဆာင္မႈ ထပ္ထည့္ပါ</string>
+    <string name="print_search_box_shown_utterance">ရွာသည့္အကြက္ ျပထားသည္</string>
+    <string name="print_search_box_hidden_utterance">ရွာသည့္အကြက္ ဝွက္ထားသည္</string>
+    <string name="print_add_printer">ပရင္တာ ထပ္ထည့္ပါ</string>
+    <string name="print_select_printer">ပရင္တာကို ေရြးပါ</string>
+    <string name="print_forget_printer">ပရင္တာကို ေမ့လိုက္ပါ</string>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="one">ပရင္တာ <xliff:g id="count" example="1">%1$s</xliff:g> ခုေတြ႕သည္</item>
+        <item quantity="other">ပရင္တာ <xliff:g id="count" example="2">%1$s</xliff:g> ခုေတြ႕သည္</item>
+    </plurals>
+    <string name="choose_print_service">ပရင့္ဝန္ေဆာင္မႈ ေရြးခ်ယ္ပါ</string>
+    <string name="print_searching_for_printers">ပရင္တာမ်ား ရွာျခင္း</string>
+    <string name="print_no_printers">ပရင္တာ မေတြ႕ပါ</string>
+    <string name="printing_notification_title_template"><xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g> ကို ပရင့္ထုတ္ေနသည္</string>
+    <string name="cancelling_notification_title_template"><xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g> ကို ပယ္ဖ်က္ေနသည္</string>
+    <string name="failed_notification_title_template">ပရင္တာ အမွား <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g></string>
+    <string name="blocked_notification_title_template">ပရင္တာသည္ <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g> ကို ပိတ္ဆို႔ထားသည္</string>
+    <plurals name="composite_notification_title_template">
+        <item quantity="one">ပရင့္ထုတ္ရန္ အလုပ္<xliff:g id="print_job_name" example="foo.jpg">%1$d</xliff:g> ခု</item>
+        <item quantity="other">ပရင့္ထုတ္ရန္ အလုပ္<xliff:g id="print_job_name" example="foo.jpg">%1$d</xliff:g>ခု</item>
+    </plurals>
+    <string name="cancel">မလုပ္ပါ</string>
+    <string name="restart">ျပန္လည္စတင္ပါ</string>
+    <string name="no_connection_to_printer">ပရင္တာသို႔ ခ်ိတ္ဆက္မႈမရွိပါ</string>
+    <string name="reason_unknown">မသိေသာ</string>
+    <string name="printer_unavailable"><xliff:g id="print_job_name" example="Canon-123GHT">%1$s</xliff:g> – unavailable</string>
+    <string name="print_error_default_message">ပရင့္ထုတ္ရန္ အလုပ္ကို မထုတ္ႏိုင္ပါ</string>
+    <string-array name="color_mode_labels">
+        <item>အနက္ႏွင့္ အျဖဴ</item>
+        <item>အေရာင္</item>
+    </string-array>
+    <string-array name="orientation_labels">
+        <item>ေဒါင္လိုက္ပံုစံ</item>
+        <item>အလ်ားလိုက္ပံုစံ</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>အားလံုး</item>
+        <item>အပိုင္းအျခား</item>
+    </string-array>
+    
+    <string name="more_options_button">ေနာက္ထပ္ ေရြးခ်ယ္စရာမ်ား</string>
+    <string name="label_copies_summary">မိတၱဴမ်ား-</string>
+    <string name="label_paper_size_summary">စာမ်က္ႏွာ အရြယ္အစား-</string>
+    <string name="template_all_pages">အားလံုး <xliff:g id="page_count" example="100">%1$s</xliff:g></string>
+    <string name="template_page_range"><xliff:g id="page_count" example="100">%1$s</xliff:g> ၏ အပိုင္းအျခား</string>
+    <string name="current_page_template"><xliff:g id="current_page">%1$d</xliff:g> /<xliff:g id="page_count">%2$d</xliff:g></string>
+    <string name="print_write_error_message">ဖိုင္သို႔ မေရးႏိုင္ခဲ့ပါ</string>
+    <string name="print_error_retry">ျပန္ႀကိဳးစားသည္</string>
+    <string name="print_error_printer_unavailable">ဤပရင္တာ ယခု မရႏိုင္ပါ။</string>
+    <string name="print_preparing_preview">ႀကိဳတင္ၾကည့္ျခင္းကို ျပင္ဆင္ေနသည္\u2026</string>
+    <string name="page_description_template">စာမ်က္ႏွာ <xliff:g id="page_count" example="100">%2$d</xliff:g> မွ စာမ်က္ႏွာ <xliff:g id="current_page" example="1">%1$d</xliff:g></string>
+	<string name="summary_template">အက်ဥ္းခ်ဳပ္၊ မိတၱဴမ်ား <xliff:g id="copies" example="1">%1$s</xliff:g>၊ စာရြက္အရြယ္အစား<xliff:g id="paper_size" example="A4">%2$s</xliff:g></string>
+	<string name="expand_handle">ျဖန္႔ျခင္း လုပ္ေဆာင္မႈ</string>
+	<string name="collapse_handle">ျပန္ေခါက္ျခင္း လုပ္ေဆာင္မႈ</string>
+	<string name="savetopdf_button">PDF သို႔ သိမ္းပါ</string>
+	<string name="print_options_expanded">ပရင့္ေရြးစရာမ်ား ျဖန္႔ထားၿပီး</string>
+	<string name="print_options_collapsed">ပရင့္ေရြးစရာမ်ား ျပန္ေခါက္ၿပီး</string>
+</resources>

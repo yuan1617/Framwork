@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License"); 
+ * you may not use this file except in compliance with the License. 
+ * You may obtain a copy of the License at 
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0 
+ *
+ * Unless required by applicable law or agreed to in writing, software 
+ * distributed under the License is distributed on an "AS IS" BASIS, 
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+ * See the License for the specific language governing permissions and 
+ * limitations under the License.
+ */
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    
+    <string name="app_label">সিস্টেম ইউআই</string>
+
+    
+    <string name="status_bar_clear_all_button">মুছুন</string>
+
+    
+    <string name="status_bar_recent_remove_item_title">তালিকা থেকে মুছে ফেলুন</string>
+
+    
+    <string name="status_bar_recent_inspect_item_title">অ্যাপ তথ্য</string>
+
+    
+    <string name="status_bar_no_recent_apps">কোন সাম্প্রতিক অ্যাপ নেই</string>
+
+    
+    <string name="status_bar_accessibility_dismiss_recents">সাম্প্রতিক অ্যাপ বাতিল করুন</string>
+
+    
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="one">১টি সাম্প্রতিক অ্যাপ</item>
+        <item quantity="other">%d সাম্প্রতিক অ্যাপ</item>
+    </plurals>
+
+    
+    <string name="status_bar_no_notifications_title">কোন নোটিফিকেশন নেই</string>
+
+    
+    <string name="status_bar_ongoing_events_title">চলমান</string>
+
+    
+    <string name="status_bar_latest_events_title">নোটিফিকেশন</string>
+
+    
+    <string name="battery_low_title">চার্জার সংযুক্ত করুন</string>
+
+    
+    <string name="battery_low_subtitle">ব্যাটারির চার্জ কমে আসছে।</string>
+
+    
+    <string name="battery_low_percent_format"><xliff:g id="number">%d%%</xliff:g> অবশিষ্ট</string>
+
+    
+    <string name="invalid_charger">ইউএসবি চার্জ প্রদান সমর্থন করছে না।\n শুধুমাত্র সরবরাহকৃত চার্জারটি ব্যবহার করুন । </string>
+
+    
+    <string name="battery_low_why">ব্যাটারির ব্যবহার</string>
+
+    
+    <string name="status_bar_settings_settings_button">সেটিং</string>
+
+    
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+
+    
+    <string name="status_bar_settings_airplane">উড়োজাহাজ মোড</string>
+
+    
+    <string name="status_bar_settings_auto_rotation">স্বয়ংক্রিয়-ঘূর্ণায়মান স্ক্রিন</string>
+
+    
+    <string name="status_bar_settings_mute_label">নিঃশব্দ</string>
+
+    
+    <string name="status_bar_settings_auto_brightness_label">স্বয়ংক্রিয়</string>
+
+    
+    <string name="status_bar_settings_notifications">নোটিফিকেশন</string>
+
+    
+    
+
+    
+    <string name="status_bar_network_name_separator" product="default">" \u2014 "</string>
+
+    
+    <string name="bluetooth_tethered">ব্লুটুথ টিথার করা আছে</string>
+    
+    <string name="status_bar_input_method_settings_configure_input_methods">ইনপুট পদ্ধতি সেট আপ করুন</string>
+
+    
+    <string name="status_bar_use_physical_keyboard">ফিজিক্যাল কিবোর্ড</string>
+
+    
+    <string name="usb_device_permission_prompt">অ্যাপ <xliff:g id="application">%1$s</xliff:g> কে ইউএসবি ডিভাইসে প্রবেশের অনুমতি দেবেন? </string>
+
+    
+    <string name="usb_accessory_permission_prompt">অ্যাপ <xliff:g id="application">%1$s</xliff:g> কে ইউএসবি এক্সেসরিজে প্রবেশের অনুমতি দেবেন? </string>
+
+    
+    <string name="usb_device_confirm_prompt">খুলবেন <xliff:g id="activity">%1$s</xliff:g> যখন ইউএসবি ডিভাইস সংযুক্ত থাকবে?</string>
+
+    
+    <string name="usb_accessory_confirm_prompt">খুলবেন <xliff:g id="activity">%1$s</xliff:g> যখন ইউএসবি এক্সেসরি সংযুক্ত থাকবে?</string>
+
+    
+    <string name="usb_accessory_uri_prompt">কোন ইনস্টল করা অ্যাপ এই ইউএসবি এক্সেসরির সাথে কাজ করবে না। <xliff:g id="url">%1$s</xliff:g> -এ এই এক্সেসরি সম্পর্কে আরো জানুন</string>
+
+    
+    <string name="title_usb_accessory">ইউএসবি অনুষঙ্গ</string>
+
+    
+    <string name="label_view">দেখুন</string>
+
+    
+    <string name="always_use_device">এই ইউএসবি ডিভাইসের জন্য ডিফল্টরূপে ব্যবহার করুন</string>
+
+    
+    <string name="always_use_accessory">এই ইউএসবি এক্সেসরির জন্য ডিফল্টরূপে ব্যবহার করুন</string>
+
+    
+    <string name="usb_debugging_title">ইউএসবি ডিবাগিং-এর অনুমতি দেবেন?</string>
+
+    
+    <string name="usb_debugging_message">কম্পিউটারের আরএসএ কি আঙুলের ছাপ\n<xliff:g id="fingerprint">%1$s</xliff:g></string>
+
+    
+    <string name="usb_debugging_always">এই কম্পিউটার থেকে সবসময় অনুমতি দিন</string>
+
+    
+    <string name="compat_mode_on">স্ক্রিন পূরণ করতে জুম করুন</string>
+
+    
+    <string name="compat_mode_off">স্ক্রিন পূরণ করতে টানুন</string>
+
+    
+    <string name="screenshot_saving_ticker">স্ক্রিনশট সংরক্ষণ করছে\u2026</string>
+    
+    <string name="screenshot_saving_title">স্ক্রিনশট সংরক্ষণ করছে\u2026</string>
+    
+    <string name="screenshot_saving_text">স্ক্রিনশট সংরক্ষণ করা হয়েছে।</string>
+    
+    <string name="screenshot_saved_title">স্ক্রিনশট ধারণ করা হয়েছে।</string>
+    
+    <string name="screenshot_saved_text">আপনার স্ক্রিনশট দেখতে স্পর্শ করুন।</string>
+    
+    <string name="screenshot_failed_title">স্ক্রিনশট ধারণ করতে পারেনি।</string>
+    
+    <string name="screenshot_failed_text">স্ক্রিনশট সংরক্ষণ করতে পারেনি। স্টোরেজ হয়ত ব্যবহৃত হচ্ছে।</string>
+
+    
+    <string name="usb_preference_title">ইউএসবি ফাইল ট্রান্সফার অপশন</string>
+    
+    <string name="use_mtp_button_title">মিডিয়া প্লেয়ার হিসেবে মাউন্ট করুন (এমটিপি)</string>
+    
+    <string name="use_ptp_button_title">ক্যামেরা হিসেবে মাউন্ট করুন (পিটিপি)</string>
+    
+    <string name="installer_cd_button_title">ম্যাকের জন্য অ্যান্ড্রোয়েড ফাইল স্থানান্তর অ্যাপ ইনস্টল করুন</string>
+
+    
+    <string name="accessibility_back">পেছনে</string>
+    
+    <string name="accessibility_home">হোম স্ক্রিন</string>
+    
+    <string name="accessibility_menu">কার্যক্রম</string>
+    
+    <string name="accessibility_recent">সাম্প্রতিক অ্যাপ</string>
+    
+    <string name="accessibility_search_light">অনুসন্ধান করুন</string>
+    
+    <string name="accessibility_camera_button">ক্যামেরা</string>
+
+    
+    <string name="accessibility_ime_switch_button">ইনপুট মেথড বাটনে যান।</string>
+    
+    <string name="accessibility_compatibility_zoom_button">কম্প্যাটিবিলিটি জুম বাটন।</string>
+
+    
+    <string name="accessibility_compatibility_zoom_example">ছোট থেকে বড় স্ক্রিনে জুম করুন।</string>
+
+    
+    <string name="accessibility_bluetooth_connected">ব্লুটুথ সংযুক্ত।</string>
+    
+    <string name="accessibility_bluetooth_disconnected">ব্লুটুথ বিচ্ছিন্ন</string>
+
+    
+    <string name="accessibility_no_battery">কোন ব্যাটারি নেই।</string>
+    
+    <string name="accessibility_battery_one_bar">ব্যাটারিতে এক বার আছে।</string>
+    
+    <string name="accessibility_battery_two_bars">ব্যাটারিতে দুই বার আছে।</string>
+     
+    <string name="accessibility_battery_three_bars">ব্যাটারিতে তিন বার আছে ।</string>
+    
+    <string name="accessibility_battery_full">ব্যাটারি পূর্ণ।</string>
+
+    
+    <string name="accessibility_no_phone">কোন ফোন নেই।</string>
+    
+    <string name="accessibility_phone_one_bar">ফোন এক বার।</string>
+    
+    <string name="accessibility_phone_two_bars">ফোন দুই বার।</string>
+    
+    <string name="accessibility_phone_three_bars">ফোন তিন বার।</string>
+    
+    <string name="accessibility_phone_signal_full">ফোনের সংকেত পূর্ণ।</string>
+
+    
+    <string name="accessibility_no_data">কোন ডাটা নেই।</string>
+    
+    <string name="accessibility_data_one_bar">ডাটা এক বার।</string>
+    
+    <string name="accessibility_data_two_bars">ডাটা দুই বার।</string>
+    
+    <string name="accessibility_data_three_bars">ডাটা তিন বার।</string>
+    
+    <string name="accessibility_data_signal_full">ডাটা সংকেত পূর্ণ।</string>
+
+    
+    <string name="accessibility_wifi_off">ওয়াইফাই বন্ধ।</string>
+    
+    <string name="accessibility_no_wifi">ওয়াইফাই এর সংযোগ বিচ্ছিন্ন করা হয়েছে।</string>
+    
+    <string name="accessibility_wifi_one_bar">ওয়াইফাই এক বার।</string>
+    
+    <string name="accessibility_wifi_two_bars">ওয়াইফাই দুই বার।</string>
+    
+    <string name="accessibility_wifi_three_bars">ওয়াইফাই তিন বার।</string>
+    
+    <string name="accessibility_wifi_signal_full">ওয়াই-ফাইতে পূর্ণ সংকেত আছে ।</string>
+
+    
+    <string name="accessibility_no_wimax">কোন ওয়াইম্যাক্স নেই।</string>
+    
+    <string name="accessibility_wimax_one_bar">ওয়াইম্যাক্সে এক বার আছে ।</string>
+    
+    <string name="accessibility_wimax_two_bars">ওয়াইম্যাক্সে দুই বার আছে ।</string>
+    
+    <string name="accessibility_wimax_three_bars">ওয়াইম্যাক্সে তিন বার আছে।</string>
+    
+    <string name="accessibility_wimax_signal_full">ওয়াইম্যাক্সে পূর্ণ সংকেত আছে ।</string>
+
+    
+    <string name="accessibility_no_signal">কোন সংকেত নেই।</string>
+    
+    <string name="accessibility_not_connected">সংযোগ পাওয়া যায়নি।</string>
+    
+    <string name="accessibility_zero_bars">শূন্য বার।</string>
+    
+    <string name="accessibility_one_bar">এক বার।</string>
+    
+    <string name="accessibility_two_bars">দুই বার।</string>
+    
+    <string name="accessibility_three_bars">তিন বার।</string>
+    
+    <string name="accessibility_signal_full">পূর্ণ সংকেত।</string>
+
+    
+    <string name="accessibility_desc_on">চালু।</string>
+    
+    <string name="accessibility_desc_off">বন্ধ।</string>
+    
+    <string name="accessibility_desc_connected">সংযুক্ত।</string>
+
+    
+    <string name="accessibility_data_connection_gprs">জিপিআরএস</string>
+
+    
+    <string name="accessibility_data_connection_1x">1 X</string>
+
+    
+    <string name="accessibility_data_connection_hspa">HSPA</string>
+
+    
+    <string name="accessibility_data_connection_3g">3G</string>
+
+    
+    <string name="accessibility_data_connection_3.5g">৩.৫জি</string>
+
+    
+    <string name="accessibility_data_connection_4g">4G সেটিং</string>
+
+    
+    <string name="accessibility_data_connection_lte">এলটিই</string>
+
+    
+    <string name="accessibility_data_connection_cdma">সিডিএমএ</string>
+
+    
+    <string name="accessibility_data_connection_roaming">রোমিং</string>
+
+    
+    <string name="accessibility_data_connection_edge">এইজ</string>
+
+    
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+
+    
+    <string name="accessibility_no_sim">কোন সিম নেই।</string>
+
+    
+    <string name="accessibility_bluetooth_tether">ব্লুটুথ টিথারিং।</string>
+
+    
+    <string name="accessibility_airplane_mode">উড়োজাহাজ মোড।</string>
+
+    
+    <string name="accessibility_battery_level">ব্যাটারি <xliff:g id="number">%d</xliff:g> শতাংশ।</string>
+
+    
+    <string name="accessibility_settings_button">সিস্টেম সেটিং।</string>
+
+    
+    <string name="accessibility_notifications_button">নোটিফিকেশন।</string>
+
+    
+    <string name="accessibility_remove_notification">নোটিফিকেশন মুছুন।</string>
+
+    
+    <string name="accessibility_gps_enabled">জিপিএস সক্রিয়।</string>
+
+    
+    <string name="accessibility_gps_acquiring">জিপিএস অর্জন করছে।</string>
+
+    
+    <string name="accessibility_tty_enabled">টেলিটাইপরাইটার সক্রিয়।</string>
+
+    
+    <string name="accessibility_ringer_vibrate">রিঙ্গার কাঁপছে।</string>
+
+    
+    <string name="accessibility_ringer_silent">রিঙ্গার নিশ্চুপ।</string>
+
+    
+    <string name="accessibility_recents_item_dismissed"><xliff:g id="app" example="Calendar">%s</xliff:g> বাতিল।</string>
+    
+    <string name="accessibility_notification_dismissed">নোটিফিকেশন বাতিল করা হয়েছে।</string>
+
+    
+    <string name="accessibility_desc_notification_shade">নোটিফিকেশনের ছায়া।</string>
+    
+    <string name="accessibility_desc_quick_settings">দ্রুত সেটিং।</string>
+    
+    <string name="accessibility_desc_recent_apps">সাম্প্রতিককালের অ্যাপ।</string>
+
+    
+    <string name="accessibility_quick_settings_user"><xliff:g id="user" example="JohnDoe">%s</xliff:g> ব্যবহারকারী।</string>
+    
+    <string name="accessibility_quick_settings_wifi"><xliff:g id="signal" example="Threebars">%1$s</xliff:g>। <xliff:g id="network" example="MyWifiNetwork">%2$s</xliff:g></string>
+    
+    <string name="accessibility_quick_settings_mobile">মোবাইল <xliff:g id="signal" example="Threebars">%1$s</xliff:g>. <xliff:g id="type" example="4G">%2$s</xliff:g>. <xliff:g id="network" example="T-Mobile">%3$s</xliff:g>.</string>
+    
+    <string name="accessibility_quick_settings_battery"><xliff:g id="state" example="50%charging">%s</xliff:g> ব্যাটারি।</string>
+    
+    <string name="accessibility_quick_settings_airplane"><xliff:g id="state" example="Off">%s</xliff:g> উড়োজাহাজ মোড।</string>
+    
+    <string name="accessibility_quick_settings_bluetooth"><xliff:g id="state" example="Off">%s</xliff:g> ব্লুটুথ।</string>
+    
+    <string name="accessibility_quick_settings_alarm">অ্যালার্ম <xliff:g id="time" example="Wed3:30PM">%s</xliff:g> এর জন্য সেট করা হয়েছে।</string>
+
+    
+    <string name="data_usage_disabled_dialog_3g_title">2G-3G ডেটা নিষ্ক্রিয় আছে</string>
+    
+    <string name="data_usage_disabled_dialog_4g_title">4G ডেটা নিষ্ক্রিয় আছে</string>
+    
+    <string name="data_usage_disabled_dialog_mobile_title">মোবাইল ডেটা নিষ্ক্রিয় আছে</string>
+    
+    <string name="data_usage_disabled_dialog_title">ডাটা নিষ্ক্রিয়</string>
+    
+    <string name="data_usage_disabled_dialog">আপনি ডাটা ব্যবহারের নির্ধারিত সীমায় পৌঁছেছেন।\n\nআপনি যদি ডাটা পুনরায় সক্রিয় করেন, তাহলে অপারেটর আপনাকে চার্জ দিতে বলতে পারে।</string>
+    
+    <string name="data_usage_disabled_dialog_enable">ডাটা পুনরায় সক্রিয় করুন</string>
+
+    
+    <string name="status_bar_settings_signal_meter_disconnected"> কোন ইন্টারনেট সংযোগ নেই</string>
+
+    
+    <string name="status_bar_settings_signal_meter_wifi_nossid">ওয়াই-ফাই সংযুক্ত</string>
+
+    
+    <string name="gps_notification_searching_text">জিপিএস-এর খোঁজ করছে </string>
+
+    
+    <string name="gps_notification_found_text">জিপিএস কর্তৃক লোকশন নির্ধারণ</string>
+
+    
+    <string name="accessibility_location_active">অবস্থানের অনুরোধগুলো সক্রিয়</string>
+
+    
+    <string name="accessibility_clear_all">সব নোটিফিকেশন মুছে ফেলুন।</string>
+
+    
+    <string name="status_bar_notification_inspect_item_title">অ্যাপ তথ্য</string>
+
+    
+    <string name="accessibility_rotation_lock_off">স্ক্রিন স্বয়ংক্রিয়ভাবে আবর্তিত হবে।</string>
+
+    
+    <string name="accessibility_rotation_lock_on_landscape">ল্যান্ডস্কেপ অরিয়েন্টেশনে স্ক্রিন লক করা আছে।</string>
+
+    
+    <string name="accessibility_rotation_lock_on_portrait">পোট্রেট অরিয়েন্টেশনে স্ক্রিন লক করা আছে।</string>
+
+    
+    <string name="dessert_case">ডেজার্ট কেস</string>
+
+    
+    <string name="start_dreams">ক্যান্ডি স্ক্রিন</string>
+
+    
+    <string name="ethernet_label">ইথারনেট</string>
+
+    
+    <string name="quick_settings_airplane_mode_label">উড়োজাহাজ মোড</string>
+    
+    <string name="quick_settings_battery_charging_label">চার্জ হচ্ছে (<xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g>)</string>
+    
+    <string name="quick_settings_battery_charged_label">চার্জ দেয়া হয়েছে</string>
+    
+    <string name="quick_settings_bluetooth_label">ব্লুটুথ</string>
+    
+    <string name="quick_settings_bluetooth_multiple_devices_label">ব্লুটুথ (<xliff:g id="number">%d</xliff:g> ডিভাইস)</string>
+    
+    <string name="quick_settings_bluetooth_off_label">ব্লুটুথ বন্ধ আছে</string>
+    
+    <string name="quick_settings_brightness_label">উজ্জ্বলতা</string>
+    
+    <string name="quick_settings_rotation_unlocked_label">স্বয়ংক্রিয় আবর্তন</string>
+    
+    <string name="quick_settings_rotation_locked_label">আবর্তন লক করা হয়েছে</string>
+    
+    <string name="quick_settings_ime_label">ইনপুট পদ্ধতি</string>
+    
+    <string name="quick_settings_location_label">অবস্থানে প্রবেশাধিকার</string>
+    
+    <string name="quick_settings_location_off_label">অবস্থান বন্ধ</string>
+    
+    <string name="quick_settings_media_device_label">মিডিয়া ডিভাইস (এমটিপি)</string>
+    
+    <string name="quick_settings_rssi_label">RSSI</string>
+    
+    <string name="quick_settings_rssi_emergency_only">কেবল জরুরি কল</string>
+    
+    <string name="quick_settings_settings_label">সেটিং</string>
+    
+    <string name="quick_settings_time_label">সময়</string>
+    
+    <string name="quick_settings_user_label">আমি</string>
+    
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    
+    <string name="quick_settings_wifi_not_connected">সংযুক্ত নয়</string>
+    
+    <string name="quick_settings_wifi_no_network">কোন নেটওয়ার্ক নেই</string>
+    
+    <string name="quick_settings_wifi_off_label">ওয়াই ফাই বন্ধ</string>
+    
+    <string name="quick_settings_wifi_display_label">ওয়াই ফাই প্রদর্শন</string>
+    
+    <string name="quick_settings_wifi_display_no_connection_label">তারবিহীন প্রদর্শন</string>
+    
+    <string name="quick_settings_brightness_dialog_title">উজ্জ্বলতা</string>
+    
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">স্বয়ংক্রিয়</string>
+
+
+    
+    <string name="battery_meter_very_low_overlay_symbol">!</string>
+
+    
+    <string name="ssl_ca_cert_warning">নেটওয়ার্ক\nনজরদারি করা হতে পারে</string>
+    
+    <string name="accessibility_quick_settings_location">অবস্থান <xliff:g id="state" example="Off">%s</xliff:g>.</string>
+    <string name="quick_settings_remote_display_no_connection_label">অভিক্ষেপণ পর্দা</string>
+
+    <string name="battery_saver_confirmation_ok">চালু করুন</string>
+    <string name="accessibility_phone_button">ফোন</string>
+    <string name="accessibility_unlock_button">"আনলক করুন"</string>
+    <string name="unlock_label">"আনলক করুন"</string>
+    <string name="accessibility_desc_settings">সেটিং</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">ব্লুটুথ সংযুক্ত।</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">স্ক্রিন ল্যান্ডস্কেইপমুখী অবস্থায় লক হয়ে আছে।</string>
+    <string name="quick_settings_rotation_locked_portrait_label">পোর্ট্রেট</string>
+    <string name="quick_settings_rotation_locked_landscape_label">ল্যান্ডস্কেপ</string>
+    <string name="quick_settings_user_title">ব্যবহারকারী</string>
+    <string name="quick_settings_user_new_user">পেস্কি কিড</string>
+    <string name="quick_settings_cast_title">স্ক্রিন কাস্ট করুন</string>
+    <string name="quick_settings_done">"সম্পন্ন"</string>
+    <string name="quick_settings_connected">সংযুক্ত</string>
+    <string name="quick_settings_connecting">সংযুক্ত হচ্ছে...</string>
+    <string name="quick_settings_tethering_label">টিথারিং</string>
+    <string name="quick_settings_notifications_label">নোটিফিকেশন</string>
+    <string name="quick_settings_cellular_detail_data_usage">ডাটা ব্যবহার</string>
+    <string name="recents_app_info_button_label">অ্যাপ্লিকেশনের তথ্য</string>
+    <string name="recents_search_bar_label">অনুসন্ধান করুন</string>
+    <string name="expanded_header_battery_charged">চার্জ দেয়া হয়েছে</string>
+    <string name="expanded_header_battery_charging">"চার্জ হচ্ছে"</string>
+    <string name="description_target_search">অনুসন্ধান করুন</string>
+    <string name="description_direction_up">"<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> এর জন্য উপরের দিকে স্লাইড করুন৷"</string>
+    <string name="description_direction_left">"<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> এর জন্য বাম দিকে স্লাইড করুন৷"</string>
+    <string name="interruption_level_none">কোনটি নয়</string>
+    <string name="interruption_level_priority">অগ্রাধিকার</string>
+    <string name="interruption_level_all">সব</string>
+    <string name="user_add_user">ব্যবহারকারী যোগ করুন</string>
+    <string name="user_new_user_name">পেস্কি কিড</string>
+    <string name="guest_exit_guest_dialog_remove">"সরান"</string>
+    <string name="guest_wipe_session_wipe">চালু করা</string>
+    <string name="clear_all_notifications_text">সব মুছুন</string>
+    <string name="media_projection_action_text">এখন শুরু করুন</string>
+    <string name="empty_shade_text">কোন নোটিফিকেশন নেই</string>
+    <string name="vpn_footer">নেটওয়ার্ক হয়ত পরিবীক্ষণ করা হয়েছে</string>
+    <string name="monitoring_title">নেটওয়ার্ক নজরদারি</string>
+    <string name="hidden_notifications_cancel">না ধন্যবাদ</string>
+    <string name="hidden_notifications_setup">সেটআপ করুন</string>
+    <string name="battery_low_percent_format_saver_started"><xliff:g id="number">%d%%</xliff:g> অবশিষ্ট। ব্যাটারি সংরক্ষক চালু রয়েছে।</string>
+    <string name="invalid_charger_title">ইউএসবির মাধ্যমে চার্জ দেয়া সমর্থন করে না।</string>
+    <string name="invalid_charger_text">কেবল সরবরাহকৃত চার্জারটি ব্যবহার করুন।</string>
+    <string name="battery_saver_confirmation_title">ব্যাটারি সংরক্ষক চালু করবেন?</string>
+    <string name="battery_saver_start_action">ব্যাটারি সংরক্ষক চালু করুন</string>
+    <string name="phone_label">ফোন চালু করুন</string>
+    <string name="camera_label">ক্যামেরা চালু করুন</string>
+    <string name="accessibility_wifi_name"><xliff:g id="wifi" example="HomeNetwork">%s</xliff:g> সাথে সংযুক্ত।</string>
+    <string name="accessibility_bluetooth_name"><xliff:g id="bluetooth" example="CarAudio">%s</xliff:g> সাথে সংযুক্ত।</string>
+    <string name="accessibility_desc_connecting">সংযুক্ত করা হচ্ছে।</string>
+    <string name="accessibility_recents_item_will_be_dismissed"><xliff:g id="app" example="Calendar">%s</xliff:g> বাতিল করুন।</string>
+    <string name="accessibility_recents_item_launched"><xliff:g id="app" example="Calendar">%s</xliff:g> চালু করা হচ্ছে।</string>
+    <string name="accessibility_desc_lock_screen">লক স্ক্রিন।</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">ওয়াই-ফাই বন্ধ।</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">ওয়াই-ফাই চালু।</string>
+    <string name="accessibility_quick_settings_airplane_off">উড়োজাহাজ মোড বন্ধ আছে।</string>
+    <string name="accessibility_quick_settings_airplane_on">উড়োজাহাজ মোড চালু আছে।</string>
+    <string name="accessibility_quick_settings_airplane_changed_off">উড়োজাহাজ মোড বন্ধ করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">উড়োজাহাজ মোড চালু করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_bluetooth_off">ব্লুটুথ বন্ধ।</string>
+    <string name="accessibility_quick_settings_bluetooth_on">ব্লুটুথ চালু।</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">ব্লুটুথ সংযুক্ত করা হচ্ছে।</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">ব্লুটুথ বন্ধ করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">ব্লুটুথ চালু করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_location_off">অবস্থান অবগতকরণ বন্ধ।</string>
+    <string name="accessibility_quick_settings_location_on">অবস্থান অবগতকরণ চালু।</string>
+    <string name="accessibility_quick_settings_location_changed_off">অবস্থান অবগতকরণ বন্ধ করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_location_changed_on">অবস্থান অবগতকরণ চালু করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_close">প্যানেল বন্ধ করুন।</string>
+    <string name="accessibility_quick_settings_more_time">আরো বেশি সময়।</string>
+    <string name="accessibility_quick_settings_less_time">আরো কম সময়।</string>
+    <string name="accessibility_quick_settings_flashlight_off">ফ্ল্যাশলাইট বন্ধ।</string>
+    <string name="accessibility_quick_settings_flashlight_on">ফ্ল্যাশলাইট চালু।</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">ফ্ল্যাশলাইট বন্ধ করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">ফ্ল্যাশলাইট চালু করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">কালার ইনভারশন বন্ধ করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">কালার ইনভারশন চালু করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">মোবাইল হটস্পট বন্ধ করা হয়েছে।</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">মোবাইল হটস্পট চালু করা হয়েছে।</string>
+    <string name="accessibility_casting_turned_off">স্ক্রিন কাস্টিং বন্ধ।</string>
+    <string name="accessibility_brightness">উজ্জ্বলতা প্রদর্শন করুন</string>
+    <string name="accessibility_rotation_lock_off_changed">স্ক্রিন এখন স্বয়ংক্রিয়ভাবে ঘুরবে।</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">স্ক্রিন এখন পোর্ট্রেইট অরিয়েন্টেশনে লক করা আছে।</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">কোন জোড়াকৃত ডিভাইস নেই</string>
+    <string name="quick_settings_wifi_detail_empty_text">কোন সংরক্ষিত নেটওয়ার্ক নেই</string>
+    <string name="quick_settings_casting">কাস্টিং</string>
+    <string name="quick_settings_cast_device_default_name">বেনামী ডিভাইস</string>
+    <string name="quick_settings_cast_device_default_description">কাস্টের জন্য প্রস্তুত</string>
+    <string name="quick_settings_cast_detail_empty_text">কোন ডিভাইস পাওয়া যাচ্ছে না</string>
+    <string name="quick_settings_inversion_label">ইনভার্ট কালার</string>
+    <string name="quick_settings_color_space_label">রং সংশোধন মোড</string>
+    <string name="quick_settings_more_settings">আরো সেটিং</string>
+    <string name="quick_settings_hotspot_label">হটস্পট</string>
+    <string name="quick_settings_flashlight_label">ফ্ল্যাশলাইট</string>
+    <string name="quick_settings_cellular_detail_title">মোবাইল ডাটা</string>
+    <string name="quick_settings_cellular_detail_remaining_data">অবশিষ্ট ডাটা</string>
+    <string name="quick_settings_cellular_detail_data_used"><xliff:g id="data_used" example="2.0GB">%s</xliff:g> ব্যবহৃত</string>
+    <string name="quick_settings_cellular_detail_data_limit"><xliff:g id="data_limit" example="2.0GB">%s</xliff:g> সীমা</string>
+    <string name="quick_settings_cellular_detail_data_warning"><xliff:g id="data_limit" example="2.0GB">%s</xliff:g> সতর্কীকরণ</string>
+    <string name="recents_empty_message">কোন সাম্প্রতিক অ্যাপ নেই</string>
+    <string name="recents_lock_to_app_button_label">অ্যাপে লক করুন</string>
+    <string name="expanded_header_battery_charging_with_time"><xliff:g id="charging_time" example="2hrs25min">%s</xliff:g> পূর্ণাঙ্গ হওয়া পর্যন্ত</string>
+    <string name="expanded_header_battery_not_charging">চার্জ হচ্ছে না</string>
+    <string name="zen_no_interruptions_with_warning">কোন ধরনের বিঘ্ন নয়। এমনকি এর্লামও নয়।</string>
+    <string name="zen_no_interruptions">কোন ধরনের বিঘ্ন নয়। </string>
+    <string name="zen_important_interruptions">কেবল অগ্রাধিকারমূলক হস্তক্ষেপ</string>
+    <string name="zen_alarm_information_time">আপনার পরবর্তী এলার্ম বাজবে <xliff:g id="alarm_time" example="5:00PM">%s</xliff:g></string>
+    <string name="zen_alarm_information_day_time">আপনার পরবর্তী এলার্ম বাজবে <xliff:g id="alarm_day_and_time" example="Fri5:00PM">%s</xliff:g></string>
+    <string name="zen_alarm_warning">আপনি সময় আপনার এলার্মটি শুনতে পাবেন না <xliff:g id="alarm_time" example="5:00PM">%s</xliff:g></string>
+    <string name="keyguard_more_overflow_text">+<xliff:g id="number_of_notifications" example="5">%d</xliff:g></string>
+    <string name="speed_bump_explanation">কম জরুরি নোটিফিকেশনগুলো নিচে</string>
+    <string name="notification_tap_again">খুলতে আবার স্পর্শ করুন</string>
+    <string name="keyguard_unlock">আনলক করতে ওপরের দিকে সোয়াইপ করুন</string>
+    <string name="phone_hint">ফোনের জন্য ডানে সোয়াইপ করুন</string>
+    <string name="camera_hint">ক্যামেরার জন্য বায়ে সোয়াইপ করুন</string>
+    <string name="zen_mode_forever">অনিদির্ষ্টভাবে</string>
+    <string name="keyguard_indication_charging_time">চার্জ হচ্ছে (<xliff:g id="charging_time_left" example="4hoursand2minutes">%s</xliff:g> পূর্ণাঙ্গ হওয়ার আগ পর্যন্ত)</string>
+    <string name="accessibility_multi_user_switch_switcher">ব্যবহারকারী পরিবর্তন করুন</string>
+    <string name="accessibility_multi_user_switch_quick_contact">প্রোফাইল দেখান</string>
+    <string name="guest_nickname">অতিথি</string>
+    <string name="guest_new_guest">অতিথি যোগ করুন</string>
+    <string name="guest_exit_guest">অতিথি সরিয়ে ফেলুন</string>
+    <string name="guest_exit_guest_dialog_title">অতিথি সরিয়ে ফেলবেন?</string>
+    <string name="guest_exit_guest_dialog_message">এই সেশনের সব অ্যাপ এবং ডাটা মুছে ফেলা হবে।</string>
+    <string name="guest_wipe_session_title">অতিথি, আপনার ফিরে আসাকে স্বাগতম!</string>
+    <string name="guest_wipe_session_message">আপনি কি আপনার সেশনটি অব্যাহত রাখতে চান?</string>
+    <string name="guest_wipe_session_dontwipe">হ্যা, অব্যাহত রাখুন</string>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="one">এক মিনিট ধরে</item>
+        <item quantity="other">%d মিনিট ধরে</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="one">এক ঘণ্টা ধরে</item>
+        <item quantity="other">%d ঘণ্টা ধরে</item>
+    </plurals>
+    <string name="battery_saver_notification_title">ব্যাটারি সংরক্ষক চালু রয়েছে</string>
+    <string name="battery_saver_notification_text">কর্মনৈপুণ্য এবং ব্যাকগ্রাউন্ড ডাটা হ্রাস করে</string>
+    <string name="battery_saver_notification_action_text">ব্যাটারি সংরক্ষক বন্ধ করুন</string>
+    <string name="battery_level_template"><xliff:g id="level" example="45">%d</xliff:g>%%</string>
+    <string name="notification_hidden_text">বিষয়বস্তু লুকায়িত</string>
+    <string name="media_projection_dialog_text"><xliff:g id="app_seeking_permission" example="Hangouts">%s</xliff:g> আপনার স্ক্রিনে প্রদর্শিত সব কিছু ধারণ করতে শুরু করবে।</string>
+    <string name="media_projection_remember_text">আবার দেখাবেন না</string>
+    <string name="device_owned_footer">ডিভাইসের উপর নজরদারি করা হতে পারে</string>
+    <string name="profile_owned_footer">প্রোফাইলের উপর নজরদারি করা হতে পারে</string>
+    <string name="monitoring_title_device_owned">ডিভাইস নজরদারি</string>
+    <string name="monitoring_title_profile_owned">প্রোফাইল নজরদারি</string>
+    <string name="disable_vpn">ভিপিএন নিষ্ক্রিয় করুন</string>
+    <string name="disconnect_vpn">ভিপিএন বিচ্ছিন্ন করুন</string>
+    <string name="monitoring_description_device_owned">এই ডিভাইসটি ম্যানেজ করে:\n<xliff:g id="organization">%1$s</xliff:g>\n\n ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার অ্যাডমিনিস্ট্রেটর আপনার ডিভাইস এবং নেটওয়ার্ক কার্যক্রমের ওপর নজরদারি করতে পারে।\n\nআরো তথ্যের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।</string>
+    <string name="monitoring_description_vpn">আপনি ভিপিএন সংযোগ সেট আপ করার জন্য\"<xliff:g id="application">%1$s</xliff:g>\" অনুমতি দিয়েছেন।\n\nএই অ্যাপ ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ  আপনার ডিভাইস এবং নেটওয়ার্ক কার্যক্রমের ওপর নজরদারি করতে পারে।</string>
+    <string name="monitoring_description_legacy_vpn">আপনি একটি ভিপিএন-এর সাথে সংযুক্ত (\"<xliff:g id="application">%1$s</xliff:g>\")।\n\n আপনার ভিপিএন সেবা প্রদানকারী আপনার ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার ডিভাইস এবং নেটওয়ার্ক কার্যক্রম নজরদারি করতে পারে।</string>
+    <string name="monitoring_description_vpn_device_owned">এই ডিভাইসটি ম্যানেজ করেছে:\n<xliff:g id="organization">%1$s</xliff:g>\n\n আপনার অ্যাডমিনিস্ট্রেটর আপনার ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার নেটওয়ার্ক কার্যক্রম নজরদারি করতে সক্ষম। আরো তথ্যের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।\n\nঅধিকন্তু, আপনি \"<xliff:g id="application">%2$s</xliff:g>\"  একটি ভিপিএন সংযোগ সেট আপ করার অনুমতি দিয়েছেন। এই অ্যাপও নেটওয়ার্ক কার্যক্রম নজরদারি করতে পারে।</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">এই ডিভাইসটি ম্যানেজ করেছে:\n<xliff:g id="organization">%1$s</xliff:g>\n\n আপনার অ্যাডমিনিস্ট্রেটর আপনার ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার নেটওয়ার্ক কার্যক্রম নজরদারি করতে সক্ষম। আরো তথ্যের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।\n\nঅধিকন্তু, আপনি (\"<xliff:g id="application">%2$s</xliff:g>\") একটি ভিপিএন-এর সাথে সংযুক্ত। আপনার ভিপিএন সেবা প্রদানকারীও নেটওয়ার্ক কার্যক্রম নজরদারি করতে পারে।</string>
+    <string name="monitoring_description_profile_owned">এই প্রোফাইলটি ম্যানেজ করেছে:\n<xliff:g id="organization">%1$s</xliff:g>\n\n আপনার অ্যাডমিনিস্ট্রেটর আপনার ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার ডিভাইস এবং নেটওয়ার্ক কার্যক্রম নজরদারি করতে সক্ষম।\n\nআরো তথ্যের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।</string>
+    <string name="monitoring_description_device_and_profile_owned">এই ডিভাইসটি ম্যানেজ করেছে:\n<xliff:g id="organization">%1$s</xliff:g>\n আপনার প্রোফাইল ম্যানেজ করেছে: \n<xliff:g id="organization">%2$s</xliff:g>\n\n আপনার অ্যাডমিনিস্ট্রেটর আপনার ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার ডিভাইস এবং নেটওয়ার্ক কার্যক্রম নজরদারি করতে সক্ষম।\n\nআরো তথ্যের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।</string>
+    <string name="monitoring_description_vpn_profile_owned">এই প্রোফাইলটি ম্যানেজ করেছে:\n<xliff:g id="organization">%1$s</xliff:g>\n\n আপনার অ্যাডমিনিস্ট্রেটর আপনার ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার নেটওয়ার্ক কার্যক্রম নজরদারি করতে সক্ষম। আরো তথ্যের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।\n\nঅধিকন্তু, আপনি \"<xliff:g id="application">%2$s</xliff:g>\" একটি ভিপিএন সংযোগ সেট আপ করার অনুমতি দিয়েছেন। এই অ্যাপও নেটওয়ার্ক কার্যক্রম নজরদারি করতে পারে।</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">এই প্রোফাইলটি ম্যানেজ করেছে:\n<xliff:g id="organization">%1$s</xliff:g>\n\n আপনার অ্যাডমিনিস্ট্রেটর আপনার ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার নেটওয়ার্ক কার্যক্রম নজরদারি করতে সক্ষম। আরো তথ্যের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।\n\nঅধিকন্তু, আপনি একটি ভিপিএন-এর সাথে সংযুক্ত (\"<xliff:g id="application">%2$s</xliff:g>\")। আপনার ভিপিএন সেবা প্রদানকারীও নেটওয়ার্ক কার্যক্রম নজরদারি করতে পারে।</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">এই ডিভাইসটি ম্যানেজ করেছে:\n<xliff:g id="organization">%1$s</xliff:g>\n আপনার প্রোফাইল ম্যানেজ করেছে: \n<xliff:g id="organization">%2$s</xliff:g>\n\n আপনার অ্যাডমিনিস্ট্রেটর আপনার ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার নেটওয়ার্ক কার্যক্রম নজরদারি করতে সক্ষম। আরো তথ্যের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।\n\nঅধিকন্তু, আপনি \"<xliff:g id="application">%3$s</xliff:g>\" একটি ভিপিএন সংযোগ সেট আপ করার অনুমতি দিয়েছেন। এই অ্যাপও নেটওয়ার্ক কার্যক্রম নজরদারি করতে পারে।</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">এই ডিভাইসটি ম্যানেজ করেছে:\n<xliff:g id="organization">%1$s</xliff:g>\n আপনার প্রোফাইল ম্যানেজ করেছে: \n<xliff:g id="organization">%2$s</xliff:g>\n\nআপনার অ্যাডমিনিস্ট্রেটর আপনার ইমেইল, অ্যাপ এবং নিরাপদ ওয়েবসাইটসহ আপনার নেটওয়ার্ক কার্যক্রম নজরদারি করতে সক্ষম। আরো তথ্যের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন।\n\nঅধিকন্তু, আপনি একটি ভিপিএন-এর সাথে সংযুক্ত (\"<xliff:g id="application">%3$s</xliff:g>\")। আপনার ভিপিএন সেবা প্রদানকারীও নেটওয়ার্ক কার্যক্রম নজরদারি করতে পারে।</string>
+    <string name="keyguard_indication_trust_disabled">আপনি নিজে নিজে আনলক না করা পর্যন্ত ডিভাইসটি লক অবস্থায় থাকবে</string>
+    <string name="hidden_notifications_title">দ্রুত নোটিফিকেশন লাভ করুন</string>
+    <string name="hidden_notifications_text">আপনি আনলক করার পূর্বে সেগুলো দেখে নিন</string>
+    <string name="muted_by"><xliff:g id="third_party">%1$s</xliff:g> কর্তৃক নিঃশব্দ করা</string>
+    <string name="recents_launch_error_message"><xliff:g id="app" example="Calendar">%s</xliff:g> শুরু করতে পারে।</string>
+    <string name="status_bar_notification_app_settings_title"><xliff:g id="app_name" example="Calendar">%s</xliff:g>  সেটিং</string>
+    <string name="quick_settings_cellular_detail_over_limit">সীমায় পৌঁছেছে- ডাটা ব্যবহার সাময়িক বন্ধ</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">ব্যবহারকারী পরিবর্তন করুন, বর্তমান ব্যবহারকারী <xliff:g id="current_user_name" example="JohnDoe">%s</xliff:g></string>
+    <string name="user_add_user_title" msgid="2108112641783146007">নতুন ব্যবহারকারী যোগ করুন</string>
+    <string name="user_add_user_message_short" msgid="1511354412249044381">যখন আপনি নতুন ব্যবহারকারী যোগ করবেন, তখন সেই ব্যক্তিকে তার স্পেস সেট করতে হবে।nnযেকোনো ব্যবহারকারী অন্য সব ব্যবহারকারীদের জন্য অ্যাপ আপডেট করতে পারবে।</string>
+    <string name="zen_mode_and_condition"><xliff:g id="zen_mode" example="Priority interruptions only">%1$s</xliff:g>. <xliff:g id="exit_condition" example="For one hour">%2$s</xliff:g></string>
+</resources>

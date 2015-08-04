@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Copyright (C) 2014 The Android Open Source Project
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+  http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="orb_search_action">ရွာေဖြမႈ လုပ္ေဆာင္ခ်က္</string>
+    <string name="lb_search_bar_hint">ရွာေဖြပါ</string>
+    <string name="lb_search_bar_hint_speech">ရွာေဖြရန္ ေျပာပါ</string>
+    <string name="lb_search_bar_hint_with_title"><xliff:g id="search context">%1$s</xliff:g> ကို ရွာေဖြပါ</string>
+    <string name="lb_search_bar_hint_with_title_speech"><xliff:g id="search context">%1$s</xliff:g> ကို ရွာေဖြရန္ ေျပာပါ</string>
+    <string name="lb_playback_controls_play">ဖြင့္သည္</string>
+    <string name="lb_playback_controls_pause">ခဏရပ္သည္</string>
+    <string name="lb_playback_controls_fast_forward">ေရွ႕သို႔ သြားရန္</string>
+    <string name="lb_playback_controls_rewind">ျပန္ရစ္ရန္</string>
+    <string name="lb_playback_controls_skip_next">ေနာက္ထပ္သို႔ ေက်ာ္ပါ</string>
+    <string name="lb_playback_controls_skip_previous">ယခင္သို႔ ေက်ာ္ပါ</string>
+    <string name="lb_playback_controls_more_actions">ပိုမိုေသာ လုပ္ေဆာင္မႈမ်ား</string>
+    <string name="lb_playback_controls_thumb_up">လက္မေထာင္ကို ေရြးခ်ယ္မႈျဖဳတ္ပါ</string>
+    <string name="lb_playback_controls_thumb_up_outline">လက္မေထာင္ကို ေရြးခ်ယ္ပါ</string>
+    <string name="lb_playback_controls_thumb_down">လက္မေအာက္စိုက္ကို ေရြးခ်ယ္မႈျဖဳတ္ပါ</string>
+    <string name="lb_playback_controls_thumb_down_outline">လက္မေအာက္စိုက္ကို ေရြးခ်ယ္ပါ</string>
+    <string name="lb_playback_controls_repeat_none">ဘာကိုမွ် ထပ္မေၾကာ့ပါ</string>
+    <string name="lb_playback_controls_repeat_all">အားလုံးကို ထပ္ေၾကာ့ပါ</string>
+    <string name="lb_playback_controls_repeat_one">တစ္ခုကို ထပ္ေၾကာ့ပါ</string>
+    <string name="lb_playback_controls_shuffle_enable">ဖလွယ္ျခင္း ဖြင့္ပါ</string>
+    <string name="lb_playback_controls_shuffle_disable">ဖလွယ္ျခင္း ပိတ္ပါ</string>
+    <string name="lb_playback_controls_high_quality_enable">အဆင့္ျမင့္အေရအေသြး ဖြင့္ပါ</string>
+    <string name="lb_playback_controls_high_quality_disable">အဆင့္ျမင့္အေရအေသြးပိတ္ပါ</string>
+    <string name="lb_playback_controls_closed_captioning_enable">စာတမ္းထိုး ဖြင့္ပါ</string>
+    <string name="lb_playback_controls_closed_captioning_disable">စာတမ္းထိုး ပိတ္ပါ</string>
+</resources>

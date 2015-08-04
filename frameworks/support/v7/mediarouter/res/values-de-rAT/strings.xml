@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Geräte</string>
+    <string name="mr_media_route_button_content_description">"Medienausgabe"</string>
+    <string name="mr_media_route_chooser_title">Mit Gerät verbinden</string>
+    <string name="mr_media_route_chooser_searching">Nach Geräten suchen\u2026</string>
+    <string name="mr_media_route_controller_disconnect">Trennen</string>
+</resources>

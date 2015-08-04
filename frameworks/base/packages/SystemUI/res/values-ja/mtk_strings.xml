@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wfd_sink_summary">他の人が見つけることができます</string>
+
+    <string name="gemini_default_sim_always_ask">常に確認する</string>
+    <string name="gemini_default_sim_auto">"自動"</string>
+    <string name="accessibility_phone_four_bars">携帯電話のアンテナが4本立っています。</string>
+    <string name="sim_switch_tip">このSIMは <xliff:g>%s</xliff:g>のデフォルトSIMとして設定されていません。ステータスバーをホールド＆ドラッグして、デフォルトSIMカードを交換できます。</string>
+    <string name="remind_next_time">次回再度通知する</string>
+    <string name="voice_call_service">音声通話サービス</string>
+    <string name="messages_service">メッセージサービス</string>
+    <string name="data_connection_service">データ接続サービス</string>
+    <string name="plmn_searching">"検索中"</string>
+    <string name="wifi">"Wi-Fi"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="mobile">データ接続</string>
+    <string name="gps">"GPS"</string>
+    <string name="autorotate">自動回転</string>
+    <string name="normal">"全般"</string>
+    <string name="meeting">会議</string>
+    <string name="mute">"マナーモード"</string>
+    <string name="outdoor">屋外</string>
+    <string name="offline">"機内モード"</string>
+    <string name="brightness">"画面の明るさ"</string>
+    <string name="timeout">"タイムアウト"</string>
+    <string name="data_connection_attach_timeout_error_msg">"データ接続に失敗したか、もしくはネットワークが現在ビジーです。"</string>
+    <string name="data_connection_dettach_timeout_error_msg">"データ接続に失敗しました。"</string>
+    <string name="data_connection_connected">[<xliff:g>%s</xliff:g>] SIMカードのデータ接続を有効にしました</string>
+    <string name="gemini_intenet_call">"インターネット通話"</string>  
+    <string name="gemini_default_sim_never">"OFF"</string>
+    <string name="gemini_3g_disable_warning">"このSIMでは3Gサービスを利用できません。高速なデータ接続ができない可能性があります。設定＞無線ネットワーク＞モバイルネットワーク　メニューから3Gサービス設定を変更できます。このSIMを選択しますか？"</string>
+    <string name="gemini_3g_disable_warning_cu">"このSIMでは3Gサービスを利用できません。高速なデータ接続ができない可能性があります。設定＞SIM管理　メニューから3Gサービスを変更できます。このSIMを選択しますか？"</string>
+    <string name="gemini_3g_disable_warning_case0">"SIMのデータローミングを有効にしてください。データローミング料金が大幅にかかる可能性があります。このSIMを選択してデータローミングを有効にしますか？"</string>
+    <string name="gemini_3g_disable_warning_case1">"このSIMでは3Gサービスを利用できません。高速なデータ接続ができない可能性があります。設定＞無線ネットワーク＞モバイルネットワーク　メニューから3Gサービス設定を変更できます。このSIMを選択しますか？"</string>
+    <string name="gemini_3g_disable_warning_case2">"このSIMでは3Gサービスを利用できません。高速なデータ接続ができない可能性があります。設定＞SIM管理　メニューから3Gサービスを変更できます。このSIMを選択しますか？"</string>
+    <string name="gemini_3g_disable_warning_case3">"SIMのデータローミングを有効にしてください。データローミング料金が大幅にかかる可能性があります。また、このSIMでは3Gサービスを利用できません。高速なデータ接続ができない可能性があります。設定＞無線ネットワーク＞モバイルネットワーク　メニューから変更できます。このSIMを選択してデータローミングを有効にしますか？"</string>
+    <string name="gemini_3g_disable_warning_case4">"SIMのデータローミングを有効にしてください。データローミング料金が大幅にかかる可能性があります。また、このSIMでは3Gサービスを利用できません。高速なデータ接続ができない可能性があります。設定＞SIM管理　メニューから変更できます。このSIMを選択してデータローミングを有効にしますか？"</string>
+    <string name="confirm_radio_title">SIMはOFFです</string>
+    <string name="confirm_radio_msg"><xliff:g id="operator_name" example="CMCC">%1$s</xliff:g> はOFFにされました。このSIMカードをONにしますか？</string>
+    <string name="confirm_radio_msg_single">機内モードがONになっています。OFFにしますか？</string>
+    <string name="confirm_radio_lbutton">"ONにする"</string>
+    <string name="builtin_installer_title_message">内蔵CD-ROM</string>
+    <string name="builtin_installer_dlg_message">内蔵CD-ROMをONにしますか？</string>
+    <string name="builtin_installer_always_allowed">次回以降表示しない</string>
+    <string name="dlg_no">"いいえ"</string>
+    <string name="dlg_yes">"はい"</string>
+    <string name="OK">"OK"</string>
+    <string name="application_guide_title">﻿Switch to default SIM card</string>
+    <string name="application_guide_content">通知一覧を下方にスライドするとデフォルトSIMカードを交換できます</string>
+    <string name="data_usage">"データ使用量"</string>
+    <string name="audio_profile">音声プロフィール</string>
+    <string name="user_owner">"所有者"</string>
+    <string name="phone_battery_low_subtitle">電話の電池が少なくなっています。</string>
+    <string name="smartbook_battery_low_subtitle">スマートブックの電池が少なくなっています。</string>
+    <string name="apn">アクセスポイント</string>
+    <string name="sim_management">UIM/SIM管理</string>
+    <string name="network_selection_settings">ネットワーク選択</string>
+    <string name="quick_settings_roam_data">データローミング</string>
+    <string name="eco_backlight_title">省電力バックライト</string>
+    <string name="eco_backlight_summary">電力を節約するために、バックライトを自動的に調整します</string> 
+    <string name="gemini_4g_3g_disable_warning_case1">"この選択されたSIMでは4G/3Gサービスは利用できません。 これはデータのロードが遅いことがあります。 Settings（設定） &gt; Wireless &amp; networks（無線とネットワーク） &gt; Mobile networks（モバイルネットワーク）から4G/3Gサービス設定を変更できます。 このSIMを選択しますか？"</string>
+    <string name="gemini_4g_3g_disable_warning_case2">"最初にこのSIMのデータローミングを有効にする必要があります。それによって高額なローミング請求が発生することがあります。 また、このSIMでは4G/3Gサービスは利用できません。 これはデータのロードが遅いことがあります。 Settings（設定） &gt; Wireless &amp; networks（無線とネットワーク） &gt; Mobile networks（モバイルネットワーク）から設定を変更できます。 データローミングを有効にして、このSIMを選択しますか？"</string>
+    <string name="more">その他</string>
+    <string name="quick_settings_data_sim_notset">データSIMが設定されていません</string>
+</resources>

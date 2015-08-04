@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="timezone_rename_labels">
+        <item>"အလယ္ပိုင္း - NT ၾသစေၾတလ် ဘာသာစကား"</item>
+        <item>"အလယ္ပိုင္း - SA ၾသစေၾတလ် ဘာသာစကား"</item>
+        <item>"အေရွ႕ပိုင္း - QLD ၾသစေၾတလ် ဘာသာစကား"</item>
+        <item>"အေရွ႕ပိုင္း - NSW ၾသစေၾတလ် ဘာသာစကား"</item>
+        <item>"ေတာင္ေပၚစံ-ေဒၚဆြန္ကရိခ္"</item>
+        <item>"အလယ္ပိုင္းစံ-ဆက္စ္ကတ္ခ်ီဝမ္န္"</item>
+        <item>"အေရွ႕ပိုင္း စံ-အက္တီကိုကန္"</item>
+        <item>"အတၱလန္တိတ္ စံ - ကြိဘက္ ဘာသာစကား"</item>
+        <item>"ဟာဝိုင္အီ-အလူရွန္-ဟာဝိုင္အီ"</item>
+        <item>"ဟာဝိုင္အီ-အလူရွန္-အလက္စ္ကား"</item>
+        <item>"ပစိဖိတ္ စံ- မက္တလကတ္တလာ"</item>
+        <item>"ေတာင္ေပၚ စံ- အရီဇိုးနား"</item>
+        <item>"ပစိဖိတ္-ဘဂ်ား-ကယ္လ္လီဖိုးနီးယား"</item>
+        <item>"ေတာင္ေပၚ-ခ်ီဟြာဟြာ"</item>
+        <item>"အလယ္ပိုင္း-တမာအူလီးပက္စ္"</item>
+        <item>"ေတာင္ေပၚ-ဆိုႏိုရာ"</item>
+        <item>"အေရွ႕အာဖရိက စံေတာ္ခ်ိန္"</item>
+        <item>"အတၱလန္တိတ္ စံေတာ္ခ်ိန္"</item>
+        <item>"အတၱလန္တိတ္ စံေတာ္ခ်ိန္"</item>
+        <item>"အေရွ႕ဥေရာပ စံေတာ္ခ်ိန္"</item>
+        <item>"ကလင္နင္ဂရက္ဒ္ စံေတာ္ခ်ိန္"</item>
+        <item>"အေမဇံု-ရြန္ဒိုနီးယား"</item>
+        <item>"ဘရက္ဆီးလီးယား- ပါရာ"</item>
+        </string-array>
+    <string-array name="backup_country_names">
+        <item>"စင့္တ္ မအာတန္"</item>
+        <item>"ကာေရဘီယံ နယ္သာလန္"</item>
+        <item>ကူရာဆာအို</item>
+        <item>"ေတာင္ပိုင္းဆူဒန္"</item>
+    </string-array>
+</resources>

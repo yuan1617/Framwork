@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_label">শেল</string>
+    <string name="bugreport_finished_title">বাগ রিপোর্ট ধরা হয়েছে</string>
+    <string name="bugreport_finished_text">আপনার বাগ রিপোর্ট শেয়ার করতে স্পর্শ করুন</string>
+    <string name="bugreport_confirm">ব্যক্তিগত ও গোপনীয় তথ্যসহ সিস্টেমের বিভিন্ন লগ ফাইল থেকে বাগ রিপোর্ট ডাটা গ্রহণ করেছে। কেবল এমন অ্যাপ ও মানুষের সাথে আপনি বাগ রিপোর্ট শেয়ার করুন যাদেরকে আপনি বিশ্বাস করেন।</string>
+    <string name="bugreport_confirm_repeat">পরের বার এই বার্তাটি দেখাবেন</string>
+    <string name="bugreport_finished_text" product="watch">আপনার বাগ রিপোর্ট শেয়ার করার জন্য বায়ে সোয়াইপ করুন</string>
+</resources>

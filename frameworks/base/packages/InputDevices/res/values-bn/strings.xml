@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyboard_layouts_label">এনড্রয়েড কিবোর্ড</string>
+    <string name="keyboard_layout_english_uk_label">"ইংরেজি (ব্রিটিশ)"</string>
+    <string name="keyboard_layout_english_us_label">"ইংরেজি (আমেরিকা)"</string>
+    <string name="keyboard_layout_german_label">জার্মান </string>
+    <string name="keyboard_layout_french_label">ফরাসি</string>
+    <string name="keyboard_layout_russian_label">রাশিয়ান </string>
+    <string name="keyboard_layout_spanish_label">স্প্যানিশ</string>
+    <string name="keyboard_layout_italian">ইতালিয়ান</string>
+    <string name="keyboard_layout_danish">ডেনিস</string>
+    <string name="keyboard_layout_norwegian">নরওয়েজিয়ান</string>
+    <string name="keyboard_layout_swedish">সুইডিশ</string>
+    <string name="keyboard_layout_finnish">ফিনিস</string>
+    <string name="keyboard_layout_czech">চেক</string>
+    <string name="keyboard_layout_hungarian">হাঙ্গেরিয়ান</string>
+    <string name="keyboard_layout_icelandic">আইসল্যান্ডিক</string>
+    <string name="keyboard_layout_portuguese">পর্তুগিজ</string>
+    <string name="keyboard_layout_turkish">তুর্কি</string>
+    
+    <string name="app_label">ইনপুট ডিভাইস</string>
+    <string name="keyboard_layout_english_us_intl">ইংরেজি (ইউএস), আন্তর্জাতিক স্টাইল</string>
+    <string name="keyboard_layout_english_us_colemak_label">ইংরেজি (ইউএস), কলেমাক স্টাইল</string>
+    <string name="keyboard_layout_english_us_dvorak_label">ইংরেজি (ইউএস), ডভোরাক স্টাইল</string>
+    <string name="keyboard_layout_french_ca_label">ফ্রেঞ্চ (কানাডা)</string>
+    <string name="keyboard_layout_russian_mac_label">রাশিয়ান, ম্যাক স্টাইল</string>
+    <string name="keyboard_layout_swiss_french_label">সুইস ফ্রেঞ্চ</string>
+    <string name="keyboard_layout_swiss_german_label">সুইস জার্মান</string>
+    <string name="keyboard_layout_belgian">বেলজিয়ান</string>
+    <string name="keyboard_layout_bulgarian">বুলগেরিয়ান</string>
+    <string name="keyboard_layout_croatian">ক্রোয়েশিয়ান</string>
+    <string name="keyboard_layout_estonian">এস্তোনিয়ান</string>
+    <string name="keyboard_layout_brazilian">ব্রাজিলিয়ান</string>
+    <string name="keyboard_layout_slovak">স্লোভাক</string>
+    <string name="keyboard_layout_slovenian">স্লোভেনিয়ান</string>
+    <string name="keyboard_layout_ukrainian">ইউক্রেনিয়ান</string>
+    <string name="keyboard_layout_arabic">আরবি</string>
+    <string name="keyboard_layout_greek">গ্রিক</string>
+    <string name="keyboard_layout_hebrew">হিব্রু</string>
+    <string name="keyboard_layout_lithuanian">লিথুয়ানিয়ান</string>
+    <string name="keyboard_layout_spanish_latin">স্প্যানিশ (ল্যাটিন)</string>
+    <string name="keyboard_layout_latvian">লাটভিয়ান</string>
+</resources>

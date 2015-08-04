@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wfd_sink_summary">Altres el poden detectat</string>
+    <string name="gemini_default_sim_always_ask">Pregunta sempre</string>
+    <string name="gemini_default_sim_auto">"automàtica"</string>
+    <string name="accessibility_phone_four_bars">Quatre barres de telèfon</string>
+    <string name="sim_switch_tip">"Aquesta SIM és la targeta SIM per defecte de <xliff:g>%s</xliff:g>. Arrossegueu cap a baix la Barra d'Estat per canviar la targeta SIM per defecte."</string>
+    <string name="remind_next_time">"Recorda-m'ho la propera vegada"</string>
+    <string name="voice_call_service">servei de trucada de veu</string>
+    <string name="messages_service">servei de missatges</string>
+    <string name="data_connection_service">servei de connexió de dades</string>
+    <string name="plmn_searching">"S\'està cercant"</string>
+    <string name="wifi">"Wi-Fi"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="mobile">Connexió de dades</string>
+    <string name="gps">"GPS"</string>
+    <string name="autorotate">Rotació automàtica</string>
+    <string name="normal">"General"</string>
+    <string name="meeting">Reunió</string>
+    <string name="mute">"Silenci"</string>
+    <string name="outdoor">Exteriors</string>
+    <string name="offline">"Mode d\'avió"</string>
+    <string name="brightness">"Brillantor"</string>
+    <string name="timeout">"Temps d\'espera esgotat"</string>
+    <string name="data_connection_attach_timeout_error_msg">"La connexió de dades ha fallat o la xarxa està ocupada ara."</string>
+    <string name="data_connection_dettach_timeout_error_msg">"Errada en interrompre la connexió de dades”</string>
+    <string name="data_connection_connected">La connexió de dades de la targeta SIM [<xliff:g>%s</xliff:g>] està activada.</string>
+    <string name="gemini_intenet_call">"Trucada per Internet"</string>  
+    <string name="gemini_default_sim_never">"desactivada"</string>
+    <string name="gemini_3g_disable_warning">"El servei 3G no està disponible amb aquesta SIM seleccionada. Les dades es poden carregar més lentament. Pots canviar la configuració del servei 3G a Configuració &gt; Xarxes &amp; sense fil &gt; Xarxes mòbils. Segur que vols seleccionar aquesta SIM?"</string>
+    <string name="gemini_3g_disable_warning_cu">"El servei 3G no està disponible amb aquesta SIM seleccionada. Les dades es poden carregar més lentament. Pots canviar la configuració del servei 3G a Configuració &gt; Administració de la SIM. Segur que vols seleccionar aquesta SIM?"</string>
+    <string name="gemini_3g_disable_warning_case0">“Abans cal activar la itinerància de dades per a aquesta SIM i això pot comportar despeses importants per itinerància. Estàs segur que vols activar la itinerància de dades i seleccionar aquesta SIM?”</string>
+    <string name="gemini_3g_disable_warning_case1">"El servei 3G no està disponible amb aquesta SIM seleccionada. Les dades es poden carregar més lentament. Pots canviar la configuració del servei 3G a Configuració &gt; Xarxes &amp; sense fil &gt; Xarxes mòbils. Segur que vols seleccionar aquesta SIM?"</string>
+    <string name="gemini_3g_disable_warning_case2">"El servei 3G no està disponible amb aquesta SIM seleccionada. Les dades es poden carregar més lentament. Pots canviar la configuració del servei 3G a Configuració &gt; Administració de la SIM. Segur que vols seleccionar aquesta SIM?"</string>
+    <string name="gemini_3g_disable_warning_case3">"Abans has d’activar la itinerància de dades per a aquesta SIM i això pot comportar despeses importants per itinerància. A més, el servei 3G no està disponible amb aquesta SIM. Les dades es poden carregar més lentament. Pots canviar-ho a Configuració &gt; Xarxes &amp; sense fil &gt; Xarxes mòbils. Segur que vols activar la itinerància de dades i seleccionar aquesta SIM?"</string>
+    <string name="gemini_3g_disable_warning_case4">“Abans has d’activar la itinerància de dades per a aquesta SIM i això pot comportar despeses importants per itinerància. A més, el servei 3G no està disponible amb aquesta SIM. Les dades es poden carregar més lentament. Pots canviar-ho a Configuració &gt; Administració de la SIM. Estàs segur que vols activar la itinerància de dades i seleccionar aquesta SIM?”</string>
+    <string name="confirm_radio_title">SIM desconnectada</string>
+    <string name="confirm_radio_msg">"<xliff:g id="operator_name" example="CMCC">%1$s</xliff:g> s'ha desconnectat. Voleu connectar aquesta targeta SIM?"</string>
+    <string name="confirm_radio_msg_single">El mode avió està activat, voleu desactivar-lo?</string>
+    <string name="confirm_radio_lbutton">"Activa"</string>
+    <string name="builtin_installer_title_message">CD-ROM integrat.</string>
+    <string name="builtin_installer_dlg_message">Activar el CD-ROM integrat?</string>
+    <string name="builtin_installer_always_allowed">No ho mostris la propera vegada</string>
+    <string name="dlg_no">"No"</string>
+    <string name="dlg_yes">"Sí"</string>
+    <string name="OK">"D\'acord"</string>
+    <string name="application_guide_title">﻿Switch to default SIM card</string>
+    <string name="application_guide_content">Baixeu per la llista de notificacions per canviar a la targeta SIM per defecte</string>
+    <string name="data_usage">"Ús de dades"</string>
+    <string name="audio_profile">"Perfils d'àudio"</string>
+    <string name="user_owner">"Propietari"</string>
+    <string name="phone_battery_low_subtitle">La bateria del telèfon s’està esgotant.</string>
+    <string name="smartbook_battery_low_subtitle">La bateria de l’smartbook s’està esgotant.</string>
+    <string name="apn">PUNT D’ACCÉS</string>
+    <string name="sim_management">GESTIÓ DE LA UIM/SIM</string>
+    <string name="network_selection_settings">Selecció de xarxa</string>
+    <string name="quick_settings_roam_data">Itinerància de dades</string>
+    <string name="eco_backlight_title">Retroil·luminació econòmica</string>
+    <string name="eco_backlight_summary">Adapta automàticament la retroil·luminació per estalviar energia</string> 
+    <string name="gemini_4g_3g_disable_warning_case1">"El servei 4G/3G no està disponible amb aquesta SIM seleccionada. Les dades es poden carregar més lentament. Podeu canviar la configuració del servei 4G/3G a Configuració &gt; Xarxes &amp; sense fil &gt; Xarxes mòbils. Segur que voleu seleccionar aquesta SIM?"</string>
+    <string name="gemini_4g_3g_disable_warning_case2">"Abans heu d’activar la itinerància de dades per a aquesta SIM i això pot comportar despeses importants per itinerància. A més, el servei 4G/3G no està disponible amb aquesta SIM. Les dades es poden carregar més lentament. Podeu canviar-ho a Configuració &gt; Xarxes &amp; sense fil &gt; Xarxes mòbils. Esteu segur que voleu activar la itinerància de dades i seleccionar aquesta SIM?"</string>
+    <string name="more">Més</string>
+    <string name="quick_settings_data_sim_notset">No s\'ha establert cap SIM de dades</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="abc_action_mode_done">সম্পন্ন</string>
+    <string name="abc_action_bar_home_description">হোমে নেভিগেট করুন</string>
+    <string name="abc_action_bar_up_description">উপরে নেভিগেট করুন</string>
+    <string name="abc_action_menu_overflow_description">আরও বিকল্প</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">স্ক্যান করুন</string>
+    <string name="abc_searchview_description_query">অনুসন্ধান জিজ্ঞাসা</string>
+    <string name="abc_searchview_description_clear">জিজ্ঞাসা মুছে ফেলুন</string>
+    <string name="abc_searchview_description_submit">জিজ্ঞাসা জমা দিন</string>
+    <string name="abc_searchview_description_voice">কণ্ঠ অনুসন্ধান</string>
+    <string name="abc_activitychooserview_choose_application">একটি অ্যাপ নির্বাচন করুন</string>
+    <string name="abc_activity_chooser_view_see_all">সব দেখুন</string>
+    <string name="abc_shareactionprovider_share_with_application">%s সাথে শেয়ার করুন</string>
+    <string name="abc_shareactionprovider_share_with">শেয়ার করুন</string>
+</resources>

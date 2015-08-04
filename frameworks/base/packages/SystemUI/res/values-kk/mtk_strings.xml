@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wfd_sink_summary">Басқалар зерттеуі мүмкін</string>
+
+    <string name="gemini_default_sim_always_ask">Әрқашан сұрау</string>
+    <string name="gemini_default_sim_auto">Авто</string>
+    <string name="accessibility_phone_four_bars">Телефонның төрт бөлігі.</string>
+    <string name="sim_switch_tip">Бұл SIM-карта <xliff:g>%s</xliff:g> үшін әдепкі SIM-карта ретінде орнатылды. Әдепкі SIM-картаны өзгерту үшін күй панелін ұстап, төмен жылжытыңыз.</string>
+    <string name="remind_next_time">Келесі ретте ескерту</string>
+    <string name="voice_call_service">дауыстық қоңырау шалу қызметі</string>
+    <string name="messages_service">хабар қызметі</string>
+    <string name="data_connection_service">деректер байланысының қызметі</string>
+    <string name="plmn_searching">Іздеу</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="mobile">Деректер қосылымы</string>
+    <string name="gps">GPS</string>
+    <string name="autorotate">Автоматты түрде айналдыру</string>
+    <string name="normal">Жалпы</string>
+    <string name="meeting">Кездесу</string>
+    <string name="mute">Дыбыссыз</string>
+    <string name="outdoor">Сыртқы жақ</string>
+    <string name="offline">Ұшақ режимі</string>
+    <string name="brightness">Жарықтық</string>
+    <string name="timeout">Күту уақыты</string>
+    <string name="data_connection_attach_timeout_error_msg">"Деректер байланысы орындалмады немесе ағымдағы желі бос емес."</string>
+    <string name="data_connection_dettach_timeout_error_msg">"Деректер байланысын ажырату орындалмады."</string>
+    <string name="data_connection_connected">[<xliff:g>%s</xliff:g>] SIM-карта дерегінің байланысы қосылды</string>
+    <string name="gemini_intenet_call">Интернет арқылы қоңырау шалу</string>  
+    <string name="gemini_default_sim_never">Өшіру</string>
+    <string name="gemini_3g_disable_warning">"Таңдалған SIM карта үшін 3G қызметі қолжетімсіз. Ол деректердің баяу қотарылуына әкелуі мүмкін. 3G қызметінің параметрін мәзірдегі Параметрлер &gt; Сымсыз құрылғылар және желілер &gt; Мобильді желілер бойынша өзгертуге болады. Расымен осы SIM картаны таңдау қажет пе?"</string>
+    <string name="gemini_3g_disable_warning_cu">"Таңдалған SIM карта үшін 3G қызметі қолжетімсіз. Ол деректердің баяу қотарылуына әкелуі мүмкін. 3G қызметінің параметрін мәзірдегі Параметрлер &gt; Сымсыз құрылғылар және желілер &gt; SIM картаны басқару бойынша өзгертуге болады. Расымен осы SIM картаны таңдау қажет пе?"</string>
+    <string name="gemini_3g_disable_warning_case0">"Алдымен осы SIM картаның деректер роумингін қосу қажет, алайда қосымша роуминг ақысын қажет етуі мүмкін! Расымен деректер роумингін қосып, осы SIM картаны таңдау қажет пе?"</string>
+    <string name="gemini_3g_disable_warning_case1">"Таңдалған SIM карта үшін 3G қызметі қолжетімсіз. Ол деректердің баяу қотарылуына әкелуі мүмкін. 3G қызметінің параметрін мәзірдегі Параметрлер &gt; Сымсыз құрылғылар және желілер &gt; Мобильді желілер бойынша өзгертуге болады. Расымен осы SIM картаны таңдау қажет пе?"</string>
+    <string name="gemini_3g_disable_warning_case2">"Таңдалған SIM карта үшін 3G қызметі қолжетімсіз. Ол деректердің баяу қотарылуына әкелуі мүмкін. 3G қызметінің параметрін мәзірдегі Параметрлер &gt; Сымсыз құрылғылар және желілер &gt; SIM картаны басқару бойынша өзгертуге болады. Расымен осы SIM картаны таңдау қажет пе?"</string>
+    <string name="gemini_3g_disable_warning_case3">"Осы SIM картасы үшін дерек роумингісін қосу қажет, бұл елеулі роуминг төлемдерін қамтуы мүмкін! Осымен қатар 3G қызметі бұл SIM картасымен қолжетімсіз. Деректер баяуырақ жүктелуі мүмкін. Оны Параметрлер &gt; Сымсыз байланыс және желілер &gt; Мобильді желілер ішінен өзгертуге болады. Дерек роумингісін қосып, бұл SIM картасын таңдауға сенімдісіз бе?"</string>
+    <string name="gemini_3g_disable_warning_case4">"Осы SIM картаны пайдалану үшін, алдымен роуминг қосылуы қажет, алайда ол роуминг төлемінің айтарлықтай шығынына әкелуі мүмкін! Сонымен қатар, 3G қызметі осы SIM карта үшін қолжетімсіз. Ол деректердің баяу қотарылуына әкелуі мүмкін. Оны мәзірдегі Параметрлер &gt; SIM картаны басқару бойынша өзгертуге болады.Расымен роуминг қызметін қосып, осы SIM картаны таңдау қажет пе?"</string>
+    <string name="confirm_radio_title">SIM-карта өшірулі</string>
+    <string name="confirm_radio_msg"><xliff:g id="operator_name" example="CMCC">%1$s</xliff:g> қазір өшірулі. Бұл SIM-картаны қосқыңыз келе ме?</string>
+    <string name="confirm_radio_msg_single">Қазір ұшақ режимі қосулы, өшіргіңіз келе ме?</string>
+    <string name="confirm_radio_lbutton">Қосу</string>
+    <string name="builtin_installer_title_message">Бекітілген CD-ROM</string>
+    <string name="builtin_installer_dlg_message">Бекітілген CD-ROM дискін қосу керек пе?</string>
+    <string name="builtin_installer_always_allowed">Келесі ретте көрсетпеу</string>
+    <string name="dlg_no">Жоқ</string>
+    <string name="dlg_yes">Иә</string>
+    <string name="OK">OK</string>
+    <string name="application_guide_title">﻿Switch to default SIM card</string>
+    <string name="application_guide_content">Әдепкі SIM-картаға қосу үшін ескертпе тізімін төмен жылжытыңыз</string>
+    <string name="data_usage">Деректер қолданысы</string>
+    <string name="audio_profile">Аудио профильдер</string>
+    <string name="user_owner">Пайдаланушы</string>
+    <string name="phone_battery_low_subtitle">Телефон батареясының қуаты төмендеуде.</string>
+    <string name="smartbook_battery_low_subtitle">Смартбук батареясының қуаты төмендеуде.</string>
+    <string name="apn">КІРУ НҮКТЕСІ</string>
+    <string name="sim_management">UIM/SIM БАСҚАРУ</string>
+    <string name="network_selection_settings">Желіні таңдау</string>
+    <string name="quick_settings_roam_data">Деректер роумингі</string>
+    <string name="eco_backlight_title">Үнемді жарықтандыру</string>
+    <string name="eco_backlight_summary">Артқы жарықты автоматты түрде қуатты сақтау үшін бейімдеу</string> 
+    <string name="gemini_4g_3g_disable_warning_case1">"4G/3G қызметі осы таңдалған SIM картамен қолжетімді емес. Деректер баяу жүктелуі мүмкін. 4G/3G қызметінің параметрін Параметрлер &gt; Сымсыз және желілер &gt; Мобильді желілер бөлімінде өзгертуге болады. Осы SIM картаны таңдау қажет пе?"</string>
+    <string name="gemini_4g_3g_disable_warning_case2">"Алдымен осы SIM карта үшін дерек роумингін қосуыңыз керек, бұл едәуір роуминг шығындарын тудырады! Бұдан басқа, 4G/3G қызметі осы таңдалған SIM картамен қолжетімді емес. Деректер баяу жүктелуі мүмкін. Оны Параметрлер &gt; Сымсыз және желілер &gt; Мобильді желілер бөлімінде өзгертуге болады. Дерек роумингін қосу және осы SIM картаны таңдау қажет пе?"</string>
+    <string name="more">Тағы</string>
+    <string name="quick_settings_data_sim_notset">SIM-карта дерегі орнатылмады </string>
+</resources>

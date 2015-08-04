@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">ဤကြန္ယက္ကို အသံုးျပဳရန္</string>
+    <string name="action_do_not_use_network">ဤကြန္ယက္ကို အသံုးမျပဳပါႏွင့္</string>
+    <string name="action_bar_label">ကြန္ယက္သို႔ ဆိုင္းအင္လုပ္ပါ/ဝင္ပါ</string>
+</resources>

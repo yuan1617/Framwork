@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wfd_sink_summary">Հայտնաբերելի այլ սարքերի համար</string>
+
+    <string name="gemini_default_sim_always_ask">Միշտ հարցնել</string>
+    <string name="gemini_default_sim_auto">"ինքնաշխատ"</string>
+    <string name="accessibility_phone_four_bars">Հեռախոսի չորս գծեր:</string>
+    <string name="sim_switch_tip">Այս SIM քարտը տեղադրվել է որպես սկզբնադիր SIM քարտ <xliff:g>%s</xliff:g>-ի համար: Պահեք և քաշեք ներքև` սկզբնադիր SIM քարտը փոխելու համար:</string>
+    <string name="remind_next_time">Հիշեցնել հաջորդ անգամ</string>
+    <string name="voice_call_service">ձայնային զանգի ծառայություն</string>
+    <string name="messages_service">հաղորդագրությունների ծառայություն</string>
+    <string name="data_connection_service">տվյալների կապակցման ծառայություն</string>
+    <string name="plmn_searching">"Որոնում"</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="mobile">Տվյալների կապակցում</string>
+    <string name="gps">"GPS"</string>
+    <string name="autorotate">Ինքնապտտում</string>
+    <string name="normal">"Ընդհանուր"</string>
+    <string name="meeting">Ժողով</string>
+    <string name="mute">"Լուռ"</string>
+    <string name="outdoor">Դուրս</string>
+    <string name="offline">"Ինքնաթիռային ռեժիմ"</string>
+    <string name="brightness">"Պայծառություն"</string>
+    <string name="timeout">"Ժամանակի սպառում"</string>
+    <string name="data_connection_attach_timeout_error_msg">"Տվյալների կապակցումը ձախողվեց կամ ցանցն այժմ զբաղված է":</string>
+    <string name="data_connection_dettach_timeout_error_msg">"Տվյալների կապակցման ընդհատումը ձախողվեց":</string>
+    <string name="data_connection_connected">[<xliff:g>%s</xliff:g>] SIM քարտի տվյալների կապակցումը միացված է</string>
+    <string name="gemini_intenet_call">"Ինտերնետային զանգ"</string>  
+    <string name="gemini_default_sim_never">"անջատված է"</string>
+    <string name="gemini_3g_disable_warning">"3G ծառայությունը մատչելի չէ այս ընտրված SIM-ի համար: Տվյալները հնարավոր է բեռնվեն ավելի դանդաղ: Դուք կարող եք փոխել 3G ծառայության կարգավորումը "Կարգավորումների" մեջ &gt; Անլար և ցանցեր &gt; Շարժական ցանցեր: Դուք վստա՞հ եք, որ ցանկանում եք ընտրել այս SIM-ը:"</string>
+    <string name="gemini_3g_disable_warning_cu">"3G ծառայությունը մատչելի չէ այս ընտրված SIM-ի համար: Տվյալները հնարավոր է բեռնվեն ավելի դանդաղ: Դուք կարող եք փոխել 3G ծառայության կարգավորումը "Կարգավորումների" մեջ &gt; SIM քարտի կառավարում: Դուք վստա՞հ եք, որ ցանկանում եք ընտրել այս SIM-ը:"</string>
+    <string name="gemini_3g_disable_warning_case0">"Դուք պետք է սկզբում միացնեք տվյալների ռոումինգն այս SIM-ի համար, որը կարող է հանգեցնել ռոումինգի համար զգալի ծախսերի: Դուք վստա՞հ եք, որ ցանկանում եք միացնել տվյալների ռոումինգը և ընտրել այս SIM-ը:"</string>
+    <string name="gemini_3g_disable_warning_case1">"3G ծառայությունը մատչելի չէ այս ընտրված SIM-ի համար: Տվյալները հնարավոր է բեռնվեն ավելի դանդաղ: Դուք կարող եք փոխել 3G ծառայության կարգավորումը "Կարգավորումների" մեջ &gt; Անլար և ցանցեր &gt; Շարժական ցանցեր: Դուք վստա՞հ եք, որ ցանկանում եք ընտրել այս SIM-ը:"</string>
+    <string name="gemini_3g_disable_warning_case2">"3G ծառայությունը մատչելի չէ այս ընտրված SIM-ի համար: Տվյալները հնարավոր է բեռնվեն ավելի դանդաղ: Դուք կարող եք փոխել 3G ծառայության կարգավորումը "Կարգավորումների" մեջ &gt; SIM քարտի կառավարում: Դուք վստա՞հ եք, որ ցանկանում եք ընտրել այս SIM-ը:"</string>
+    <string name="gemini_3g_disable_warning_case3">"Դուք սկզբում պետք է միացնեք տվյալների ռոումինգն այս SIM քարտի համար, որի համար հնարավոր է հանգեցնի զգալի ծախսերի ռոումինգի համար: Դրանցի բացի, 3G ծառայությունը մատչելի չէ այս SIM քարտի համար: Դա կարող է բեռնել տվյալներն ավելի դանդաղ: Դուք կարող եք փոխել դա Կարգավորումների մեջ &gt; Անլար և ցանցեր &gt; Շարժական ցանցեր: Դուք վստա՞հ եք, որ ցանկանում եք միացնել տվյալների ռոումինգը և ընտրել այս SIM քարտը:"</string>
+    <string name="gemini_3g_disable_warning_case4">"You must enable data roaming for this SIM first which may incur significant roaming charges! Besides, 3G service is not available with this SIM. This may load data slower. You can change it under Settings &gt; SIM management. Are you sure to enable data roaming and select this SIM?"</string>
+    <string name="confirm_radio_title">SIM-ն անջատված է</string>
+    <string name="confirm_radio_msg"><xliff:g id="operator_name" example="CMCC">%1$s</xliff:g>-ն այժմ անջատված է: Ցանկանու՞մ եք միացնել այս SIM քարտը:</string>
+    <string name="confirm_radio_msg_single">Միացված է օդանավի ռեժիմը, ցանկանու՞մ եք անջատել այն:</string>
+    <string name="confirm_radio_lbutton">"Միացնել"</string>
+    <string name="builtin_installer_title_message">Ներկառուցված CD-ROM</string>
+    <string name="builtin_installer_dlg_message">Միացնե՞լ ներկառուցված CD-ROM-ը:</string>
+    <string name="builtin_installer_always_allowed">Ցույց չտալ հաջորդ անգամ:</string>
+    <string name="dlg_no">"Ոչ"</string>
+    <string name="dlg_yes">"Այո"</string>
+    <string name="OK">"Լավ"</string>
+    <string name="application_guide_title">﻿Switch to default SIM card</string>
+    <string name="application_guide_content">Ծանուցման ցանկը սահեցնել ներքև` սկզբնադիր SIM քարտին փոխելու համար</string>
+    <string name="data_usage">"Տվյալների օգտագործում"</string>
+    <string name="audio_profile">Ձայնային պրոֆիլներ</string>
+    <string name="user_owner">"Սեփականատեր"</string>
+    <string name="phone_battery_low_subtitle">Հեռախոսի մարտկոցը սպառվում է:</string>
+    <string name="smartbook_battery_low_subtitle">Սմարթբուքի մարտկոցը սպառվում է:</string>
+    <string name="apn">ՄԱՏՉՄԱՆ ԿԵՏ</string>
+    <string name="sim_management">UIM/SIM ԿԱՌԱՎԱՐՈՒՄ</string>
+    <string name="network_selection_settings">Ցանցի ընտրություն</string>
+    <string name="quick_settings_roam_data">Տվյալների ռոումինգ</string>
+    <string name="eco_backlight_title">Տնտեսող խորքային լույս</string>
+    <string name="eco_backlight_summary">Ինքնաշխատ ընտելացնել խորքային լույսը հոսանքը խնայելու նպատակով</string> 
+    <string name="gemini_4g_3g_disable_warning_case1">"4G/3G ծառայությունը մատչելի չէ կոնկրետ ընտրված SIM քարտում: Այն կարող է դանդաղեցնել տվյալների բեռնումը: Կարող եք փոխել 4G/3G ծառայության կարգավորումները այստեղ` Կարգավորումներ &gt; Անլար և ցանցեր &gt; Բջջային ցանցեր: Համոզվա՞ծ եք, որ ցանկանում եք ընտրել այս SIM-ը":</string>
+    <string name="gemini_4g_3g_disable_warning_case2">"Նախ պետք է ակտիվացնեք տվյալների ռոումինգ այս SIM-ի համար, որը կարող է հանգեցնել զգալի ծախսերի: Բացի այդ, 4G/3G ծառայությունը մատչելի չէ այս SIM քարտում: Այն կարող է դանդաղեցնել տվյալների բեռնումը: Կարող եք փոխել այն այստեղ` Կարգավորումներ &gt; Անլար և ցանցեր &gt; Բջջային ցանցեր: Համոզվա՞ծ եք, որ ցանկանում եք ակտիվացնել տվյալների ռոումինգը և ընտրել այս SIM-ը":</string>
+    <string name="more">Ավելին</string>
+    <string name="quick_settings_data_sim_notset">Տվյալների SIM-ը նախադրված չէ</string>
+</resources>

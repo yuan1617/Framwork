@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mr_system_route_name">ফিডব্যাক</string>
+    <string name="mr_user_route_category_name">ডিভাইস</string>
+    <string name="mr_media_route_button_content_description">কাস্ট করুন</string>
+    <string name="mr_media_route_chooser_title">ডিভাইসের সাথে সংযুক্ত করুন</string>
+    <string name="mr_media_route_chooser_searching">ডিভাইস খোঁজা হচ্ছে\u2026</string>
+    <string name="mr_media_route_controller_disconnect">বিচ্ছিন্ন করুন</string>
+</resources>

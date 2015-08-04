@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Copyright (C) 2014 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="orb_search_action" msgid="5651268540267663887">"Hakutoiminto"</string>
+    <string name="lb_search_bar_hint" msgid="8325490927970116252">"Haku"</string>
+    <string name="lb_search_bar_hint_speech" msgid="5511270823320183816">"Tee haku puhumalla"</string>
+    <string name="lb_search_bar_hint_with_title" msgid="1627103380996590035">"Haku: <xliff:g id="SEARCH_CONTEXT">%1$s</xliff:g>"</string>
+    <string name="lb_search_bar_hint_with_title_speech" msgid="2712734639766312034">"Puhehaku: <xliff:g id="SEARCH_CONTEXT">%1$s</xliff:g>"</string>
+    <string name="lb_playback_controls_play">"Toista"</string>
+    <string name="lb_playback_controls_pause">"Tauko"</string>
+    <string name="lb_playback_controls_fast_forward">"Kelaa eteen"</string>
+    <string name="lb_playback_controls_rewind">"Kelaa taakse"</string>
+    <string name="lb_playback_controls_skip_next">Ohita seuraava</string>
+    <string name="lb_playback_controls_skip_previous">Ohita edellinen</string>
+    <string name="lb_playback_controls_more_actions">Lisää toimintoja</string>
+    <string name="lb_playback_controls_thumb_up">Poista Peukku ylös -valinta</string>
+    <string name="lb_playback_controls_thumb_up_outline">Valitse Peukku ylös</string>
+    <string name="lb_playback_controls_thumb_down">Poista Peukku alas -valinta</string>
+    <string name="lb_playback_controls_thumb_down_outline">Valitse Peukku alas</string>
+    <string name="lb_playback_controls_repeat_none">Älä toista mitään</string>
+    <string name="lb_playback_controls_repeat_all">Toista kaikki</string>
+    <string name="lb_playback_controls_repeat_one">Toista yksi</string>
+    <string name="lb_playback_controls_shuffle_enable">Ota sekoitus käyttöön</string>
+    <string name="lb_playback_controls_shuffle_disable">Ota sekoitus pois käytöstä</string>
+    <string name="lb_playback_controls_high_quality_enable">Ota korkea laatu käyttöön</string>
+    <string name="lb_playback_controls_high_quality_disable">Ota korkea laatu pois käytöstä</string>
+    <string name="lb_playback_controls_closed_captioning_enable">Ota ääniteksti käyttöön</string>
+    <string name="lb_playback_controls_closed_captioning_disable">Ota ääniteksti pois käytöstä</string>
+</resources>

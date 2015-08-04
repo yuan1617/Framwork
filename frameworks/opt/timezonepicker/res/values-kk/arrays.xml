@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="timezone_rename_labels">
+        <item>"Австралиялық орталық - Солтүстік территория"</item>
+        <item>"Австралиялық орталық - Оңтүстік Австралия"</item>
+        <item>"Шығыс Австралия - Квинсленд"</item>
+        <item>"Australian Eastern - Жаңа Оңтүстік Уэльс"</item>
+        <item>"Стандартты тау уақыты- Досон-Крик"</item>
+        <item>"Орталық стандартты - Саскачеван"</item>
+        <item>"Шығыс стандартты- Атикокан"</item>
+        <item>"Атлантикалық стандартты - Квебек"</item>
+        <item>"Гавайи-Алеуттік - Гавайи"</item>
+        <item>"Гавайи-Алеуттік - Аляска"</item>
+        <item>"Тынықмұхиттық стандартты - Метлакатла"</item>
+        <item>"Стандартты тау уақыты - Аризона"</item>
+        <item>"Тынықмұхиттық - Төменгі Калифорния"</item>
+        <item>"Тау - Чиуауа"</item>
+        <item>"Орталық - Тамаулипас"</item>
+        <item>"Тау - Сонора"</item>
+        <item>"Шығыс Африка уақыты"</item>
+        <item>"Атлантикалық стандартты уақыт</item>
+        <item>"Атлантикалық стандартты уақыт</item>
+        <item>"Шығыс Еуропа уақыты"</item>
+        <item>"Калининград уақыты"</item>
+        <item> "Амазондық-Рондониялық"</item>
+        <item>"Бразилия - Пара"</item>
+        </string-array>
+    <string-array name="backup_country_names">
+        <item>"Сен-Мартен"</item>
+        <item>"Кариб Нидерланды"</item>
+        <item>Кюрасао</item>
+        <item>"Оңтүстік Судан"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="abc_action_mode_done">ၿပီးၿပီ</string>
+    <string name="abc_action_bar_home_description">ပင္မသို႔ လွည့္လည္ပါ</string>
+    <string name="abc_action_bar_up_description">အေပၚသို႔ လွည့္လည္ပါ</string>
+    <string name="abc_action_menu_overflow_description">ေနာက္ထပ္ ေရြးခ်ယ္စရာမ်ား</string>
+    <string name="abc_action_bar_home_description_format">%1$s၊ %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s၊ %2$s၊ %3$s</string>
+    <string name="abc_searchview_description_search">ရွာေဖြပါ</string>
+    <string name="abc_searchview_description_query">ရွာေဖြသည္ေမးခြန္း</string>
+    <string name="abc_searchview_description_clear">ေမးခြန္းကိုရွင္းရန္</string>
+    <string name="abc_searchview_description_submit">ေမးခြန္းတင္သြင္းရန္</string>
+    <string name="abc_searchview_description_voice">အသံျဖင့္ရွာေဖြျခင္း</string>
+    <string name="abc_activitychooserview_choose_application">လုပ္ငန္းသံုး ပ႐ိုဂရမ္ တစ္ခုကို ေရြးခ်ယ္ပါ</string>
+    <string name="abc_activity_chooser_view_see_all">အားလံုးကို ၾကည့္ပါ</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ျဖင့္ ေဝမွ်ပါ</string>
+    <string name="abc_shareactionprovider_share_with">ျဖင့္ မွ်ေဝသည္</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Copyright (C) 2014 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="orb_search_action" msgid="5651268540267663887">"Որոնման հրամանը"</string>
+    <string name="lb_search_bar_hint" msgid="8325490927970116252">"Որոնում"</string>
+    <string name="lb_search_bar_hint_speech" msgid="5511270823320183816">"Խոսեք՝ որոնելու համար"</string>
+    <string name="lb_search_bar_hint_with_title" msgid="1627103380996590035">"Որոնեք <xliff:g id="SEARCH_CONTEXT">%1$s</xliff:g>"</string>
+    <string name="lb_search_bar_hint_with_title_speech" msgid="2712734639766312034">"Խոսեք՝ <xliff:g id="SEARCH_CONTEXT">%1$s</xliff:g> որոնելու համար"</string>
+    <string name="lb_playback_controls_play">"Նվագարկել"</string>
+    <string name="lb_playback_controls_pause">"Դադարեցնել"</string>
+    <string name="lb_playback_controls_fast_forward">"Արագ առաջ անցնել"</string>
+    <string name="lb_playback_controls_rewind">"Հետ փաթաթել"</string>
+    <string name="lb_playback_controls_skip_next">Անցնել հաջորդին</string>
+    <string name="lb_playback_controls_skip_previous">Անցնել նախորդին</string>
+    <string name="lb_playback_controls_more_actions">Այլ գործողություններ</string>
+    <string name="lb_playback_controls_thumb_up">Հանել «Հավանել» նշումը</string>
+    <string name="lb_playback_controls_thumb_up_outline">Կատարել «Հավանել» նշում</string>
+    <string name="lb_playback_controls_thumb_down">Հանել «Չհավանել» նշումը</string>
+    <string name="lb_playback_controls_thumb_down_outline">Կատարել «Չհավանել» նշում</string>
+    <string name="lb_playback_controls_repeat_none">Չկրկնել</string>
+    <string name="lb_playback_controls_repeat_all">Կրկնել բոլորը</string>
+    <string name="lb_playback_controls_repeat_one">Կրկնել մեկը</string>
+    <string name="lb_playback_controls_shuffle_enable">Միացնել խառը նվագարկումը</string>
+    <string name="lb_playback_controls_shuffle_disable">Անջատել խառը նվագարկումը</string>
+    <string name="lb_playback_controls_high_quality_enable">Միացնել բարձր որակը</string>
+    <string name="lb_playback_controls_high_quality_disable">Անջատել բարձր որակը</string>
+    <string name="lb_playback_controls_closed_captioning_enable">Միացնել ենթագրերը</string>
+    <string name="lb_playback_controls_closed_captioning_disable">Անջատել ենթագրերը</string>
+</resources>

@@ -1,0 +1,1 @@
+\\mcdat04\c4_defaultOutput\SanityResult\mt6572v1_phone\L.AOSP.EARLY.DEV\regular_mt6572v1_phone_L.AOSP.EARLY.DEV_2014.08.20.11\mtklog\BootAfterFlash_mtklog

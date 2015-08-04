@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">Netzwerk so verwenden</string>
+    <string name="action_do_not_use_network">Netzwerk nicht verwenden</string>
+    <string name="action_bar_label">Im Netzwerk anmelden</string>
+</resources>

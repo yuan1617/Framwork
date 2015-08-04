@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The Android Open Source Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="print_button">Drucken</string>
+    <string name="save_button">Speichern</string>
+    <string name="label_color">Farbe</string>
+    <string name="label_orientation">Orientierung</string>
+    <string name="search">Suchen</string>
+    <string name="add_print_service_label">Dienst hinzufügen</string>
+    <string name="print_search_box_shown_utterance">Suchfeld wird angezeigt</string>
+    <string name="print_search_box_hidden_utterance">Suchfeld wird verborgen</string>
+    <string name="print_add_printer">Drucker hinzufügen</string>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="one"><xliff:g id="count" example="1">%1$s</xliff:g> Drucker gefunden</item>
+        <item quantity="other"><xliff:g id="count" example="2">%1$s</xliff:g> Drucker gefunden</item>
+    </plurals>
+    <string name="print_searching_for_printers">Nach Drucker suchen</string>
+    <string name="print_no_printers">Kein Drucker gefunden</string>
+    <string name="printing_notification_title_template">Drucken <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g></string>
+    <string name="failed_notification_title_template">Druckerfehler <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g></string>
+    <string name="blocked_notification_title_template">Drucker gesperrt <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g></string>
+    <string name="cancel">Abbrechen</string>
+    <string name="restart">Neustart</string>
+    <string name="reason_unknown">Unbekannt</string>
+    <string-array name="orientation_labels">
+        <item>Portrait</item>
+        <item>Landschaft</item>
+    </string-array>
+    
+    <string name="app_label">Druckspooler</string>
+    <string name="advanced_settings_button">Druckereinstellungen</string>
+    <string name="label_destination">Ziel</string>
+    <string name="label_copies">Kopien</string>
+    <string name="label_paper_size">Papiergröße</string>
+    <string name="label_pages">Seiten (<xliff:g id="page_count" example="5">%1$s</xliff:g>)</string>
+    <string name="pages_range_example">e.g. 1&#8212;5,8,11&#8212;13</string>
+    <string name="print_preview">Druckvorschau</string>
+    <string name="install_for_print_preview">PDF-Betrachter zur Vorschau installieren</string>
+    <string name="printing_app_crashed">Druck-App abgestürzt</string>
+    <string name="page_count_unknown">Seiten</string>
+    <string name="generating_print_job">Druckauftrag wird erstellt</string>
+    <string name="save_as_pdf">Als PDF speichern</string>
+    <string name="all_printers">Alle Drucker&#8230;</string>
+    <string name="print_dialog">Druckdialog</string>
+    <string name="all_printers_label">Alle Drucker</string>
+    <string name="print_select_printer">Drucker auswählen</string>
+    <string name="print_forget_printer">Drucker vergessen</string>
+    <string name="cancelling_notification_title_template"><xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g> wird abgebrochen</string>
+    <string name="no_connection_to_printer">Keine Verbindung zum Drucker</string>
+    <string name="printer_unavailable"><xliff:g id="print_job_name" example="Canon-123GHT">%1$s</xliff:g> &#8211; nicht verfügbar</string>
+    <string name="print_error_default_message">Druckauftrag konnte nicht erstellt werden</string>
+    <string-array name="color_mode_labels">
+        <item>Schwarzweiß</item>
+        <item>Farbe</item>
+    </string-array>
+    <string-array name="page_options_labels">
+        <item>Alles</item>
+        <item>Bereich</item>
+    </string-array>
+    <string name="choose_print_service">Druckdienst wählen</string>
+    <plurals name="composite_notification_title_template">
+        <item quantity="one"><xliff:g id="print_job_name" example="foo.jpg">%1$d</xliff:g> Druckauftrag</item>
+        <item quantity="other"><xliff:g id="print_job_name" example="foo.jpg">%1$d</xliff:g> Druckaufträge</item>
+    </plurals>
+    
+    <string name="more_options_button">Mehr Optionen</string>
+    <string name="label_copies_summary">Kopien:</string>
+    <string name="label_paper_size_summary">Papiergröße:</string>
+    <string name="template_all_pages">Alle <xliff:g id="page_count" example="100">%1$s</xliff:g></string>
+    <string name="template_page_range">Bereich von <xliff:g id="page_count" example="100">%1$s</xliff:g></string>
+    <string name="current_page_template"><xliff:g id="current_page">%1$d</xliff:g> /<xliff:g id="page_count">%2$d</xliff:g></string>
+    <string name="print_write_error_message">Konnte Datei nicht schreiben</string>
+    <string name="print_error_retry">Wiederholen</string>
+    <string name="print_error_printer_unavailable">Dieser Drucker ist jetzt nicht verfügbar.</string>
+    <string name="print_preparing_preview">Vorschau wird vorbereitet \u2026</string>
+    <string name="page_description_template">Seite <xliff:g id="current_page" example="1">%1$d</xliff:g> von <xliff:g id="page_count" example="100">%2$d</xliff:g></string>
+	<string name="summary_template">Zusammenfassung, Kopien <xliff:g id="copies" example="1">%1$s</xliff:g>, Papiergröße <xliff:g id="paper_size" example="A4">%2$s</xliff:g></string>
+	<string name="expand_handle">Griff aufklappen</string>
+	<string name="collapse_handle">Griff zusammenklappen</string>
+	<string name="savetopdf_button">Als PDF speichern</string>
+	<string name="print_options_expanded">Druckoptionen aufgeklappt</string>
+	<string name="print_options_collapsed">Druckoptionen zusammengeklappt</string>
+</resources>

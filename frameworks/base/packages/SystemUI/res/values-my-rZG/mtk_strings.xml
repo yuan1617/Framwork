@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wfd_sink_summary">အျခားကိရိယာမ်ားမွ ရွာေဖြေတြ႕ရွိႏိုင္မႈ</string>
+
+    <string name="gemini_default_sim_always_ask">အျမဲတမ္း ေမးပါ</string>
+    <string name="gemini_default_sim_auto">အလိုအေလ်ာက္</string>
+    <string name="accessibility_phone_four_bars">ဖုန္း ေလးဘား။</string>
+    <string name="sim_switch_tip"><xliff:g>%s</xliff:g> အတြက္ SIM ကို သတ္ မွတ္ထား ေသာ SIM ကဒ္ အျဖစ္ တပ္ဆင္သည္။ သတ္ မွတ္ထားေသာ SIM ကဒ္ ကို ေျပာင္းရန္ အေနအထားျပဘားကို ထိထားၿပီး ေအာက္သို႔ ဆြဲခ်ပါ။</string>
+    <string name="remind_next_time">ေနာက္တစ္ႀကိမ္တြင္ ကၽြႏု္ပ္ကို သတိေပးပါ</string>
+    <string name="voice_call_service">အသံ ေခၚဆိုျခင္း ဝန္ေဆာင္မႈ</string>
+    <string name="messages_service">မက္ေဆ့(ခ်္) ဝန္ေဆာင္မႈ</string>
+    <string name="data_connection_service">အခ်က္အလက္ ခ်ိတ္ဆက္ျခင္း ဝန္ေဆာင္မႈ</string>
+    <string name="plmn_searching">ရွာေနသည္</string>
+    <string name="wifi">ဝိုင္-ဖိုင္  </string>
+    <string name="bluetooth">ဘလူးတုသ္</string>
+    <string name="mobile">ေဒတာ ခ်ိတ္ဆက္ျခင္း</string>
+    <string name="gps">GPS</string>
+    <string name="autorotate">အလိုအေလ်ာက္ လည္ပတ္ျခင္း</string>
+    <string name="normal">အေထြေထြ</string>
+    <string name="meeting">အစည္းအေဝး</string>
+    <string name="mute">အသံတိတ္</string>
+    <string name="outdoor">ျပင္ပ</string>
+    <string name="offline">ေလယာဥ္စီးစဥ္ပံုစံ</string>
+    <string name="brightness">ေတာက္ပမႈ</string>
+    <string name="timeout">အခ်ိန္ကုန္ၿပီ</string>
+    <string name="data_connection_attach_timeout_error_msg">"အခ်က္အလက္ ခ်ိတ္ဆက္မႈ မေအာင္ျမင္ျခင္း သို႔မဟုတ္ ေလာေလာဆယ္ ကြန္ရက္ အလုပ္မ်ားေနသည္။"</string>
+    <string name="data_connection_dettach_timeout_error_msg">"အခ်က္အလက္ ခ်ိတ္ဆက္မႈ ျဖဳတ္ျခင္း မေအာင္ျမင္ပါ။"</string>
+    <string name="data_connection_connected">[  <xliff:g>%s</xliff:g>] SIM ကဒ္ အခ်က္အလက္ ခ်ိတ္ ဆက္ျခင္းကို စတင္ လုပ္ေဆာင္ေစသည္ </string>
+    <string name="gemini_intenet_call">အင္တာနက္ ေခၚဆိုမႈ</string>  
+    <string name="gemini_default_sim_never">ပိတ္သည္</string>
+    <string name="gemini_3g_disable_warning">"ေရြးခ်ယ္လိုက္ေသာ ဤ SIM တြင္ 3G ဝန္ေဆာင္မႈကို မရႏိုင္ပါ။ ေဒတာကို ေႏွးေကြးစြာ တင္လိမ့္မည္။ 3G ဝန္ေဆာင္မႈ ဆက္တင္ကို ဆက္တင္မ်ား&gt; ဝါယာလက္စ္ ႏွင့္ ကြန္ရက္မ်ား &gt; မိုဘိုင္း ကြန္ရက္မ်ား ေအာက္တြင္ သင္ေျပာင္းလဲႏိုင္သည္။ ဤ SIM ကို ေရြးခ်ယ္ရန္ ေသခ်ာပါသလား။"</string>
+    <string name="gemini_3g_disable_warning_cu">"ေရြးခ်ယ္လိုက္ေသာ ဤ SIM တြင္ 3G ဝန္ေဆာင္မႈကို မရႏိုင္ပါ။ ေဒတာကို ေႏွးေကြးစြာ တင္လိမ့္မည္။ 3G ဝန္ေဆာင္မႈ ဆက္တင္ကို ဆက္တင္မ်ား&gt;SIM စီမံခန္႔ခြဲမႈ ေအာက္တြင္ သင္ေျပာင္းလဲ ႏိုင္သည္။ ဤ SIM ကို ေရြးခ်ယ္ရန္ ေသခ်ာပါသလား။"</string>
+    <string name="gemini_3g_disable_warning_case0">"ဤ SIM အတြက္ ေဒတာလွည့္လည္ျခင္းကို ဦးစြာ လုပ္ေဆာင္ေစရမည္။ ယင္းသည္ သိသာေသာ ႏိုင္ငံတကာလွည့္လည္မႈ အဖိုးအခကို က်သင့္ေစႏိုင္သည္။ ေဒတာလွည့္လည္ျခင္းကို လုပ္ေဆာင္ေစၿပီး ဤ SIM ကို ေရြးခ်ယ္ရန္ ေသခ်ာပါသလား။"</string>
+    <string name="gemini_3g_disable_warning_case1">"ေရြးခ်ယ္လိုက္ေသာ ဤ SIM တြင္ 3G ဝန္ေဆာင္မႈကို မရႏိုင္ပါ။ ေဒတာကို ေႏွးေကြးစြာ တင္လိမ့္မည္။ 3G ဝန္ေဆာင္မႈ ဆက္တင္ကို ဆက္တင္မ်ား&gt; ဝါယာလက္စ္ ႏွင့္ ကြန္ရက္မ်ား &gt; မိုဘိုင္း ကြန္ရက္မ်ား ေအာက္တြင္ သင္ေျပာင္းလဲႏိုင္သည္။ ဤ SIM ကို ေရြးခ်ယ္ရန္ ေသခ်ာပါသလား။"</string>
+    <string name="gemini_3g_disable_warning_case2">"ေရြးခ်ယ္လိုက္ေသာ ဤ SIM တြင္ 3G ဝန္ေဆာင္မႈကို မရႏိုင္ပါ။ ေဒတာကို ေႏွးေကြးစြာ တင္လိမ့္မည္။ 3G ဝန္ေဆာင္မႈ ဆက္တင္ကို ဆက္တင္မ်ား&gt;SIM စီမံခန္႔ခြဲမႈ ေအာက္တြင္ သင္ေျပာင္းလဲ ႏိုင္သည္။ ဤ SIM ကို ေရြးခ်ယ္ရန္ ေသခ်ာပါသလား။"</string>
+    <string name="gemini_3g_disable_warning_case3">ဤ SIM အတြက္ ျဖန္႔က်က္ျခင္း အဖိုးအခ သိသိသာသာ မ်ားႏိုင္ေသာ ေဒတာျဖန္႔က်က္ျခင္းကို ဦးစြာ လုပ္ေဆာင္ေစရမည္။ ထို႔ျပင္ ဤ SIM တြင္ 3G ဝန္ေဆာင္မႈ မရႏိုင္ပါ။ ယင္းသည္ ေဒတာတင္မႈကို ေႏွးေစႏိုင္သည္။ ယင္းကို ဆက္တင္မ်ား &gt; ဝါယာလက္စ္ႏွင့္ ကြန္ရက္မ်ား &gt; မိုဘိုင္းကြန္ရက္မ်ား ေအာက္တြင္ ေျပာင္းလဲႏိုင္သည္။ ေဒတာျဖန္႔က်က္ျခင္းကို လုပ္ေဆာင္ေစရန္ႏွင့္ ဤ SIM ကို ေရြးခ်ယ္ရန္ ေသခ်ာပါသလား။</string>
+    <string name="gemini_3g_disable_warning_case4">"ဤ SIM အတြက္ ေဒတာလွည့္လည္ျခင္းကို ဦးစြာ လုပ္ေဆာင္ေစရမည္။ ယင္းသည္ သိသာေသာ ႏိုင္ငံတကာလွည့္လည္မႈ အဖိုးအခကို က်သင့္ေစႏိုင္သည္။ ထို႔အျပင္ ဤ SIM တြင္ 3G ဝန္ေဆာင္မႈကို မရႏိုင္ပါ။ ေဒတာကို ေႏွးေကြးစြာ တင္လိမ့္မည္။ 3G ဝန္ေဆာင္မႈဆက္တင္ကို ဆက္တင္မ်ား&gt;SIM စီမံခန္႔ခြဲမႈ ေအာက္တြင္ သင္ေျပာင္းလဲႏိုင္သည္။ ေဒတာလွည့္လည္ျခင္းကို လုပ္ေဆာင္ေစၿပီး ဤ SIM ကို ေရြးခ်ယ္ရန္ ေသခ်ာပါသလား။"</string>
+    <string name="confirm_radio_title">SIM ပိတ္ထားသည္</string>
+    <string name="confirm_radio_msg">  <xliff:g id="operator_name" example="CMCC">%1$s</xliff:g> ကို ယခု ပိတ္ထားသည္။ ထို SIM ကဒ္ကို သင္ဖြင့္လို သလား။ </string>
+    <string name="confirm_radio_msg_single">ေလယာဥ္ပ်ံသန္းစဥ္ အသံုးျပဳသည့္ နည္းလမ္းကို ယခု ဖြင့္ထားသည္၊ သင္ ပိတ္လိုပါသလား။</string>
+    <string name="confirm_radio_lbutton">ဖြင့္ပါ</string>
+    <string name="builtin_installer_title_message">စက္ထဲတြင္ CD-ROM ပါၿပီးသား</string>
+    <string name="builtin_installer_dlg_message">စက္ထဲတြင္ ပါၿပီးသား CD-ROM ကို ဖြင့္မည္လား။</string>
+    <string name="builtin_installer_always_allowed">ေနာက္အႀကိမ္တြင္ မျပပါႏွင့္</string>
+    <string name="dlg_no">မဟုတ္ပါ</string>
+    <string name="dlg_yes">ဟုတ္ပါသည္</string>
+    <string name="OK">အိုေက</string>
+    <string name="application_guide_title">﻿Switch to default SIM card</string>
+    <string name="application_guide_content">မူလပံုစံ SIM ကဒ္သို႔ ေျပာင္းရန္ သတိေပးခ်က္စာရင္းကို ေအာက္သို႔ဆြဲခ်ပါ</string>
+    <string name="data_usage">အခ်က္အလက္ အသံုးခ်မႈ</string>
+    <string name="audio_profile">အသံပ႐ိုဖိုင္းမ်ား</string>
+    <string name="user_owner">ပိုင္ရွင္</string>
+    <string name="phone_battery_low_subtitle">ဖုန္းဘက္ထရီ အားနည္းလာၿပီ။</string>
+    <string name="smartbook_battery_low_subtitle">Smartbook ဘက္ထရီ အားနည္းလာၿပီ။</string>
+    <string name="apn">အက္ဆက္ပြိဳင့္</string>
+    <string name="sim_management">UIM/SIM စီမံခန္႔ခြဲမႈ</string>
+    <string name="network_selection_settings">ကြန္ရက္ေရြးခ်ယ္မႈ</string>
+    <string name="quick_settings_roam_data">ေဒတာ လွည့္လည္သြားျခင္း</string>
+    <string name="eco_backlight_title">ေခၽြတာေရးေနာက္ခံမီးေရာင္</string>
+    <string name="eco_backlight_summary">ဓာတ္အားေခၽြတာရန္ ေနာက္ခံမီးေရာင္ကို အလိုအေလ်ာက္ ထိန္းညႇိပါ</string> 
+    <string name="gemini_4g_3g_disable_warning_case1">"ဤေရြးထားေသာ SIM ျဖင့္ 4G/3G ဝန္ေဆာင္မႈ မရႏိုင္ပါ။ ၎သည္ ေဒတာတင္ျခင္းကို ေႏွးေစသည္။ 4G/3G ဝန္ေဆာင္မႈကို ဆက္တင္မ်ား &gt; ႀကိဳးမဲ့ ႏွင့္ ကြန္ရက္မ်ား &gt; မိုဘိုင္းကြန္ရက္မ်ား ေအာက္တြင္ ေျပာင္းႏုိင္သည္။ ဤ SIM ကို ေရြးရန္ ေသခ်ာပါသလား။"</string>
+    <string name="gemini_4g_3g_disable_warning_case2">"ဤ SIM ဦးစြာ ေဒတာရြန္းမင္းကို ဖြင့္ရမည္ ထုိအတြက္ သိသာေသာ ရြန္းမင္းကုန္က်စရိတ္ ရွိမည္။ ထုိ႔ျပင္ ဤ SIM သည္ 4G/3G ကိုလည္းမရပါ။ SIM ျဖင့္ 4G/3G ဝန္ေဆာင္မႈ မရႏိုင္ပါ။ ၎သည္ ေဒတာတင္ျခင္းကို ေႏွးေစသည္။ 4G/3G ဝန္ေဆာင္မႈကို ဆက္တင္မ်ား &gt; ႀကိဳးမဲ့ ႏွင့္ ကြန္ရက္မ်ား &gt; မိုဘိုင္းကြန္ရက္မ်ား ေအာက္တြင္ ေျပာင္းႏုိင္သည္။ ဤ SIM ကို ေဒတာရြန္းမင္း ဖြင္ရန္ ႏွင့္ ေရြးရန္ ေသခ်ာပါသလား။"</string>
+    <string name="more">ေနာက္ထပ္</string>
+    <string name="quick_settings_data_sim_notset">ေဒတာ SIM မသတ္မွတ္ထားပါ</string>
+</resources>

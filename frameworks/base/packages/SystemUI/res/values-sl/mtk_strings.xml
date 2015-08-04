@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wfd_sink_summary">Lahko zaznajo druge naprave</string>
+
+    <string name="gemini_default_sim_always_ask">Zmeraj vprašaj</string>
+    <string name="gemini_default_sim_auto">"samodejno"</string>
+    <string name="accessibility_phone_four_bars">Štiri črtice na telefonu.</string>
+    <string name="sim_switch_tip">Ta kartica SIM je nastavljena kot privzeta kartica SIM za <xliff:g>%s</xliff:g>. Držite in povlecite vrstico stanja, da bi spremenili privzeto kartico SIM.</string>
+    <string name="remind_next_time">Opomni me naslednjič</string>
+    <string name="voice_call_service">storitev glasovnih klicev</string>
+    <string name="messages_service">storitev sporočil</string>
+    <string name="data_connection_service">storitev podatkovne povezave</string>
+    <string name="plmn_searching">"Iskanje"</string>
+    <string name="wifi">"Wi-Fi"</string>
+    <string name="bluetooth">"Bluetooth"</string>
+    <string name="mobile">Podatkovna povezava</string>
+    <string name="gps">"GPS"</string>
+    <string name="autorotate">Samodejno vrtenje</string>
+    <string name="normal">"Splošno"</string>
+    <string name="meeting">Sestanek</string>
+    <string name="mute">"Tiho"</string>
+    <string name="outdoor">Zunaj</string>
+    <string name="offline">"Način za letalo"</string>
+    <string name="brightness">"Svetlost"</string>
+    <string name="timeout">"Časovna omejitev"</string>
+    <string name="data_connection_attach_timeout_error_msg">"Podatkovna povezava ni uspela ali pa je omrežje zasedeno."</string>
+    <string name="data_connection_dettach_timeout_error_msg">"Prekinitev podatkovne povezave ni uspela."</string>
+    <string name="data_connection_connected">[<xliff:g>%s</xliff:g>] Podatkovna povezava kartice SIM je omogočena</string>
+    <string name="gemini_intenet_call">"Internetni klic"</string>  
+    <string name="gemini_default_sim_never">"izklopljeno"</string>
+    <string name="gemini_3g_disable_warning">"Storitve 3G pri izbrani kartici SIM niso na voljo. Zaradi tega bo nalaganje podatkov počasnejše. Nastavitev storitev 3G lahko spremenite v meniju Nastavitve &gt; Brezžično in omrežja &gt; Mobilna omrežja. Ali ste prepričani, da želite izbrati to kartico SIM?"</string>
+    <string name="gemini_3g_disable_warning_cu">"Storitve 3G pri izbrani kartici SIM niso na voljo. Zaradi tega bo nalaganje podatkov počasnejše. Nastavitev storitev 3G lahko spremenite v meniju Nastavitve &gt; Upravljanje SIM. Ali ste prepričani, da želite izbrati to kartico SIM?"</string>
+    <string name="gemini_3g_disable_warning_case0">"Najprej morate za to kartico SIM omogočiti podatkovno gostovanje, zaradi česar lahko nastanejo dodatni stroški! Ali ste prepričani, da želite omogočiti podatkovno gostovanje in izbrati to kartico SIM?"</string>
+    <string name="gemini_3g_disable_warning_case1">"Storitve 3G pri izbrani kartici SIM niso na voljo. Zaradi tega bo nalaganje podatkov počasnejše. Nastavitev storitev 3G lahko spremenite v meniju Nastavitve &gt; Brezžično in omrežja &gt; Mobilna omrežja. Ali ste prepričani, da želite izbrati to kartico SIM?"</string>
+    <string name="gemini_3g_disable_warning_case2">"Storitve 3G pri izbrani kartici SIM niso na voljo. Zaradi tega bo nalaganje podatkov počasnejše. Nastavitev storitev 3G lahko spremenite v meniju Nastavitve &gt; Upravljanje SIM. Ali ste prepričani, da želite izbrati to kartico SIM?"</string>
+    <string name="gemini_3g_disable_warning_case3">"Najprej morate za to kartico SIM omogočiti podatkovno gostovanje, zaradi česar lahko nastanejo dodatni stroški! Poleg tega storitve 3G pri izbrani kartici SIM niso na voljo. Zaradi tega bo nalaganje podatkov počasnejše. Nastavitev storitev 3G lahko spremenite v meniju Nastavitve &gt; Brezžično in omrežja &gt; Mobilna omrežja. Ali ste prepričani, da želite omogočiti podatkovno gostovanje in izbrati to kartico SIM?"</string>
+    <string name="gemini_3g_disable_warning_case4">"Najprej morate za to kartico SIM omogočiti podatkovno gostovanje, zaradi česar lahko nastanejo dodatni stroški! Poleg tega storitve 3G pri izbrani kartici SIM niso na voljo. Zaradi tega bo nalaganje podatkov počasnejše. Nastavitev storitev 3G lahko spremenite v meniju Nastavitve &gt; Upravljanje SIM. Ali ste prepričani, da želite omogočiti podatkovno gostovanje in izbrati to kartico SIM?"</string>
+    <string name="confirm_radio_title">Kartica SIM je onemogočena</string>
+    <string name="confirm_radio_msg"><xliff:g id="operator_name" example="CMCC">%1$s</xliff:g> je zdaj izključen. Ali želite omogočiti to kartico SIM?</string>
+    <string name="confirm_radio_msg_single">Letalski način je vključen; ali ga želite izključiti?</string>
+    <string name="confirm_radio_lbutton">"Vklopi"</string>
+    <string name="builtin_installer_title_message">Vgrajeni CD-ROM</string>
+    <string name="builtin_installer_dlg_message">Ali želite vključiti vgrajeni CD-ROM?</string>
+    <string name="builtin_installer_always_allowed">Tega naslednjič ne pokaži več</string>
+    <string name="dlg_no">"Ne"</string>
+    <string name="dlg_yes">"Da"</string>
+    <string name="OK">"V redu"</string>
+    <string name="application_guide_title">﻿Switch to default SIM card</string>
+    <string name="application_guide_content">Povlecite seznam obvestil navzdol, da bi preklopili na privzeto kartico SIM</string>
+    <string name="data_usage">"Podatkovni promet"</string>
+    <string name="audio_profile">Zvočni profili</string>
+    <string name="user_owner">"Lastnik"</string>
+    <string name="phone_battery_low_subtitle">Baterija telefona se bo kmalu izpraznila.</string>
+    <string name="smartbook_battery_low_subtitle">Baterija Smartbooka se bo kmalu izpraznila.</string>
+    <string name="apn">DOSTOPNA TOČKA</string>
+    <string name="sim_management">UPRAVLJANJE KARTICE UIM/SIM</string>
+    <string name="network_selection_settings">Izbiranje omrežja</string>
+    <string name="quick_settings_roam_data">Podatkovno gostovanje</string>
+    <string name="eco_backlight_title">Ekonomična osvetlitev ozadja</string>
+    <string name="eco_backlight_summary">Samodejno prilagodi osvetlitev ozadja za večji prihranek energije</string> 
+    <string name="gemini_4g_3g_disable_warning_case1">"Storitev 4G/3G ni na voljo za izbrani SIM. Zato je nalaganje podatkov lahko počasnejše. Storitev 4G/3G lahko spremenite, če odprete Settings (Nastavitve) &gt; Wireless &amp; networks (Omrežje % brezžično) &gt; Mobile networks (Mobilna omrežja). Ali zares želite izbrati ta SIM?"</string>
+    <string name="gemini_4g_3g_disable_warning_case2">"Najprej morate omogočiti podatkovno gostovanje za ta SIM, pri tem pa lahko nastanejo stroški gostovanja! Poleg tega storitev 4G/3G ni na voljo za ta SIM. Zato je nalaganje podatkov lahko počasnejše. To lahko spremenite, če odprete Settings (Nastavitve) &gt; Wireless &amp; networks (Omrežje % brezžično) &gt; Mobile networks (Mobilna omrežja). Ali zares želite omogočiti podatkovno gostovanje in izbrati ta SIM?"</string>
+    <string name="more">Več</string>
+    <string name="quick_settings_data_sim_notset">Podatki SIM niso nastavljeni</string>
+</resources>

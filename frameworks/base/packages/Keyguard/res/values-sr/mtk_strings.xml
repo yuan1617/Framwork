@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyguard_domestic_zone_name">"Пекинг"</string>
+    <string name="every_day">"Сваког дана"</string>
+    <string name="never">"Никад"</string>
+    <string name="day_concat">", "</string>
+    <string name="default_label">"Аларм"</string>
+    <string name="voiceui_notify_string">Можете изговорити</string>
+    <string name="voiceui_control_poweroff_alarm">да бисте контролисали искључивање аларма.</string>
+    <string name="voiceui_comma">,</string>
+    <string name="voiceui_quota_start">"</string>
+    <string name="voiceui_quota_end">"</string>
+    <string name="voiceui_or">или</string>
+    <string name="keyguard_accessibility_alarm_unlock">Искључи аларм</string>
+    <string name="alarm_alert_dismiss_text">Одбаци</string>
+    <string name="alarm_alert_snooze_text">"Одложи"</string>    
+    <string name="keyguard_password_entering_puk_code">Унесите PUK кôд</string>
+    <string name="keyguard_password_wrong_puk_code">Нетачан PUK кôд!</string>
+    <string name="invalidPuk">Унесите 8 цифара.</string>
+    <string name="keyguard_password_enter_new_pin_code">Унесите нови PIN кôд </string>
+    <string name="keyguard_password_Confirm_pin_code">"Потврдите нови PIN"</string>
+    <string name="sim_permanently_locked">Уносом нетачног PUK кôда више од 10 пута, SIM картица је трајно закључана.</string>
+    <string name="retries_left">Преостало:<xliff:g id="number">%d</xliff:g></string>
+    <string name="simlock_slot_locked_message">Прорез је трајно закључан</string>
+    <string name="simlock_entersimmelock">Унесите ME закључавање SIM картице</string>
+    <string name="slot_id">Слот <xliff:g id="number">%d</xliff:g>:</string>
+    <string name="new_simcard">Нова SIM картица</string>
+    <string name="lockscreen_missing_sim_dialog_message">"SIM картица је искључена. Проверите да ли је ваша SIM картица правилно постављена."</string>
+    <string name="sim_card_changed_dialog_title">SIM картица промењена</string>
+    <string name="change_setting_for_onenewsim">Нова SIM картица откривена. Означена је као</string>
+    <string name="change_setting_for_twonewsim">Нова SIM картица откривена. Означене су као</string>
+    <string name="sim_card_removed">SIM картица је уклоњена.</string>
+    <string name="sim_card_swapped">SIM картица је замењена.</string>
+    <string name="change_settings">Промени</string>
+    <string name="keyguard_voice_call">Говорни позив:</string>
+    <string name="keyguard_sms">Поруке:</string>
+    <string name="keyguard_data">Веза за пренос података:</string>
+    <string name="dismiss">Одбаци</string>
+    <string name="keyguard_wrong_code_input">Нетачан кôд. </string>
+    <string name="keyguard_code_length_prompt">Унесите 4-8 цифара.</string>
+    <string name="keyguard_code_donnot_mismatch">Нема подударања.</string>
+    <string name="network_searching">Тражење нове мреже</string>
+    <string name="searching_simcard">Откривање...</string>
+    <string name="keyguard_close">"Затвори"</string>
+    <string name="default_sim_setting_prompt">Подразумевана подешавања сада су:</string>
+    <string name="keyguard_video_call">Видео позив:</string>
+    <string name="lockscreen_pattern_wrong">"Покушај поново"</string>
+    <string name="invalid_sim_title">Неважећа SIM картица</string> 
+    <string name="invalid_sim_message">UIM/SIM картица није препозната.</string>
+    <string name="lockscreen_sim_locked_message_short">SIM картица је закључана</string>
+    <string name="keyguard_alwaysask">Увек питај</string>
+    <string name="keyguard_data_none">"искључено"</string>
+    <string name="keyguard_sim_auto">"аутоматскo"</string>
+    <string name="keyguard_internal_call">Интернет позив</string>
+    <string name="keyguard_not_set">"Није подешено"</string>
+    <string name="voice_unlock_service_error">Грешка говорне услуге!</string>
+    <string name="voice_unlock_password_wrong">Нажалост, ваш глас није могуће препознати.</string>
+    <string name="voice_unlock_noisy">Превише је бучно и ваш глас није могуће чути.</string>
+    <string name="voice_unlock_weak">Ваш глас није могуће чути.</string>
+    <string name="voice_unlock_media_playing">Откључавање гласом је онемогућено током репродукције медија.</string>
+    <string name="voiceunlock_multiple_failures">Премашен је највећи дозвољени број покушаја Откључавања гласом</string>
+    <string name="voiceunlock_accessibility_voice_unlock">Откључавање гласом.</string>
+    <string name="dm_prompt">Терминал је већ закључан</string>    
+    <string name="ppl_prompt">Унесите лозинку Заштитe приватности да бисте откључали.</string>
+    <string name="sd_accessing_swtich_user_title">Заменити корисника?</string>
+    <string name="sd_accessing_swtich_user_message">Сви несачувани подаци на налогу власника биће изгубљени или оштећени.</string>
+</resources>

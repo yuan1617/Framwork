@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="wfd_sink_summary">可被其他搜索</string>
+
+    <string name="gemini_default_sim_always_ask">一律詢問</string>
+    <string name="gemini_default_sim_auto">"自動"</string>
+    <string name="accessibility_phone_four_bars">四格訊號。</string>
+    <string name="sim_switch_tip">此 SIM 已被設定為 <xliff:g>%s</xliff:g> 的預設 SIM 卡。按住並向下拖動狀態列以變更預設 SIM 卡。</string>
+    <string name="remind_next_time">下次提醒我</string>
+    <string name="voice_call_service">語音通話服務</string>
+    <string name="messages_service">訊息服務</string>
+    <string name="data_connection_service">數據連接服務</string>
+    <string name="plmn_searching">"正在搜尋..."</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="bluetooth">"藍牙"</string>
+    <string name="mobile">數據連結</string>
+    <string name="gps">"全球衛星定位系統 (GPS)"</string>
+    <string name="autorotate">自動旋轉</string>
+    <string name="normal">"一般"</string>
+    <string name="meeting">會議</string>
+    <string name="mute">"靜音"</string>
+    <string name="outdoor">戶外</string>
+    <string name="offline">"飛行模式"</string>
+    <string name="brightness">"亮度"</string>
+    <string name="timeout">"逾時"</string>
+    <string name="data_connection_attach_timeout_error_msg">"數據連接失敗或網絡現正繁忙。"</string>
+    <string name="data_connection_dettach_timeout_error_msg">"數據連接解除失敗。"</string>
+    <string name="data_connection_connected">[<xliff:g>%s</xliff:g>] SIM 卡數據連接已啟用</string>
+    <string name="gemini_intenet_call">"網絡電話"</string>  
+    <string name="gemini_default_sim_never">"關閉"</string>
+    <string name="gemini_3g_disable_warning">"選擇的SIM不能使用3G服務。這可能會使下載更緩慢。你可以到設定 &gt; 無線與網絡 &gt; 行動網絡下，更改這3G服務。你確定要選擇此SIM嗎?"</string>
+    <string name="gemini_3g_disable_warning_cu">"選擇的SIM不能使用3G服務。這可能會使下載更緩慢。你可以到設定 &gt; SIM管理下，更改這3G服務。你確定要選擇此SIM嗎?"</string>
+    <string name="gemini_3g_disable_warning_case0">"你一定能先使用此SIM數據漫遊，而它可能會帶來特別的漫遊收費! 你確定允許數據漫遊並選擇此SIM嗎?"</string>
+    <string name="gemini_3g_disable_warning_case1">"選擇的SIM不能使用3G服務。這可能會使下載更緩慢。你可以到設定 &gt; 無線與網絡 &gt; 行動網絡下，更改這3G服務。你確定要選擇此SIM嗎?"</string>
+    <string name="gemini_3g_disable_warning_case2">"選擇的SIM不能使用3G服務。這可能會使下載更緩慢。你可以到設定 &gt; SIM管理下，更改這3G服務。你確定要選擇此SIM嗎?"</string>
+    <string name="gemini_3g_disable_warning_case3">"您必須先啟用此SIM卡的資料漫遊，可能承擔重大的漫遊費！此外，此SIM卡不可用3G服務。載入資料速度可能較慢。您可以更改它於設定 &gt; 無線 &amp; 網路 &gt; 移動網路。是否確定要啟用資料漫遊，並選擇此SIM卡?"</string>
+    <string name="gemini_3g_disable_warning_case4">"你一定能先用此SIM來數據漫遊，而它可能會帶來特別的漫遊收費!除此之外，3G 服務不可用以在此SIM。此動作可能會下載更慢。此動作可能會下載更慢。你可以在設定 &gt; SIM管理 &gt; 下更改。你確定要允許數據漫遊並選擇此SIM嗎?</string>
+    <string name="confirm_radio_title">SIM 已關閉</string>
+    <string name="confirm_radio_msg"><xliff:g id="operator_name" example="CMCC">%1$s</xliff:g> 現已關閉。您要開啟此 SIM 卡嗎？</string>
+    <string name="confirm_radio_msg_single">飛行模式已開啟，您要關閉此模式嗎？</string>
+    <string name="confirm_radio_lbutton">"開啟"</string>
+    <string name="builtin_installer_title_message">內置光碟機</string>
+    <string name="builtin_installer_dlg_message">開啟內置光碟機？</string>
+    <string name="builtin_installer_always_allowed">不要再顯示</string>
+    <string name="dlg_no">"否"</string>
+    <string name="dlg_yes">"是"</string>
+    <string name="OK">"確定"</string>
+    <string name="application_guide_title">﻿Switch to default SIM card</string>
+    <string name="application_guide_content">向下滑動通知列表以切換至預設 SIM 卡</string>
+    <string name="data_usage">"數據用量"</string>
+    <string name="audio_profile">音訊概要</string>
+    <string name="user_owner">"擁有者"</string>
+    <string name="phone_battery_low_subtitle">手提電話電池剩下無幾。</string>
+    <string name="smartbook_battery_low_subtitle">智能本電池剩下無幾。</string>
+    <string name="apn">發射台</string>
+    <string name="sim_management">UIM/SIM管理</string>
+    <string name="network_selection_settings">網絡選項</string>
+    <string name="quick_settings_roam_data">數據漫遊</string>
+    <string name="eco_backlight_title">省電背景亮度</string>
+    <string name="eco_backlight_summary">自動改變背景光以節省電量</string> 
+    <string name="gemini_4g_3g_disable_warning_case1">"所選的SIM沒有可用的4G/3G服務。這樣可能會導致載入速度較慢。你可以到設定 &gt; 無線網絡 &gt; 流動網絡來更改4G/3G服務設定。你確定想選擇此SIM嗎？"</string>
+    <string name="gemini_4g_3g_disable_warning_case2">"此SIM必須啟動數據漫遊而這會導致昂貴的漫遊服務費！況且，所選的SIM沒有可用的4G/3G服務。這樣可能會導致載入速度較慢。你可以到設定 &gt; 無線網絡 &gt; 流動網絡來更改4G/3G服務設定。你確定想啟用數據漫遊並且選擇此SIM嗎？"</string>
+    <string name="more">更多</string>
+    <string name="quick_settings_data_sim_notset">未設定數據SIM卡</string>
+</resources>

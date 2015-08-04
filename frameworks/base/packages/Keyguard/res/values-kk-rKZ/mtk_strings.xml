@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyguard_domestic_zone_name">Пекин</string>
+    <string name="every_day">күнделікті</string>
+    <string name="never">Ешқашан</string>
+    <string name="day_concat">", "</string>
+    <string name="default_label">Дабыл</string>
+    <string name="voiceui_notify_string">Қуатты өшіру туралы дабылды басқару үшін</string>
+    <string name="voiceui_control_poweroff_alarm">сөйлеуіңізге болады</string>
+    <string name="voiceui_comma">,</string>
+    <string name="voiceui_quota_start">"</string>
+    <string name="voiceui_quota_end">"</string>
+    <string name="voiceui_or">немесе</string>
+    <string name="keyguard_accessibility_alarm_unlock">Қуатты өшіру туралы дабыл</string>
+    <string name="alarm_alert_dismiss_text">Қабылдамау</string>
+    <string name="alarm_alert_snooze_text">Кейінге қалдыру</string>    
+    <string name="keyguard_password_entering_puk_code">PUK кодын енгізіңіз</string>
+    <string name="keyguard_password_wrong_puk_code">Дұрыс емес PUK коды!</string>
+    <string name="invalidPuk">8 санды енгізіңіз.</string>
+    <string name="keyguard_password_enter_new_pin_code">Жаңа PIN кодын енгізіңіз</string>
+    <string name="keyguard_password_Confirm_pin_code">Жаңа PIN кодын растаңыз</string>
+    <string name="sim_permanently_locked">Дұрыс емес PUK кодын 10 реттен артық енгізу SIM картаны біржолата құлыптайды.</string>
+    <string name="retries_left"><xliff:g id="number">%d</xliff:g> қалды</string>
+    <string name="simlock_slot_locked_message">Ұяшық біржолата құлыпталды</string>
+    <string name="simlock_entersimmelock">SIM ME картасының құлпын енгізіңіз</string>
+    <string name="slot_id">Ұяшық <xliff:g id="number">%d</xliff:g>:</string>
+    <string name="new_simcard">Жаңа SIM карта</string>
+    <string name="lockscreen_missing_sim_dialog_message">"SIM карта ажыратылды. SIM картаның дұрыс орнатылғанына көз жеткізіңіз."</string>
+    <string name="sim_card_changed_dialog_title">SIM карта өзгертілді</string>
+    <string name="change_setting_for_onenewsim">Жаңа SIM карта анықталды. Ол былай белгіленген</string>
+    <string name="change_setting_for_twonewsim">Жаңа SIM карта анықталды. Олар былай белгіленген</string>
+    <string name="sim_card_removed">SIM карта алынды.</string>
+    <string name="sim_card_swapped">SIM карта ауыстырылды.</string>
+    <string name="change_settings">Өзгерту</string>
+    <string name="keyguard_voice_call">Дауыстық қоңырау:</string>
+    <string name="keyguard_sms">Хабар:</string>
+    <string name="keyguard_data">Деректер байланысы:</string>
+    <string name="dismiss">Қабылдамау</string>
+    <string name="keyguard_wrong_code_input">Қате код.</string>
+    <string name="keyguard_code_length_prompt">4-8 санды енгізіңіз.</string>
+    <string name="keyguard_code_donnot_mismatch">Сәйкес келмейді.</string>
+    <string name="network_searching">Жаңа желіні іздеу</string>
+    <string name="searching_simcard">Анықтау...</string>
+    <string name="keyguard_close">Жабу</string>
+    <string name="default_sim_setting_prompt">Әдепкі параметрлері:</string>
+    <string name="keyguard_video_call">Бейне қоңырау:</string>
+    <string name="lockscreen_pattern_wrong">Әрекетті қайталаңыз</string>
+    <string name="invalid_sim_title">Жарамсыз SIM карта</string> 
+    <string name="invalid_sim_message">UIM/SIM карта анықталмады.</string>
+    <string name="lockscreen_sim_locked_message_short">SIM карта құлыпталды</string>
+    <string name="keyguard_alwaysask">Әрқашан сұрау</string>
+    <string name="keyguard_data_none">Өшіру</string>
+    <string name="keyguard_sim_auto">Авто</string>
+    <string name="keyguard_internal_call">Интернет арқылы шақыру</string>
+    <string name="keyguard_not_set">Орнатылмады</string>
+    <string name="voice_unlock_service_error">Дауыс қызметінің қатесі!</string>
+    <string name="voice_unlock_password_wrong">Кешіріңіз, сіздің дауысыңызды анықтау мүмкін емес.</string>
+    <string name="voice_unlock_noisy">Өте шулы болғандықтан, дауысыңызды анық есту мүмкін емес.</string>
+    <string name="voice_unlock_weak">Дауысыңызды есту мүмкін емес.</string>
+    <string name="voice_unlock_media_playing">Медиа файлдарды ойнату кезінде, дауысты құлыптан босату функциясы өшіріледі.</string>
+    <string name="voiceunlock_multiple_failures">Дауысты құлыптан босатудың максималды әрекетінен асып кетті</string>
+    <string name="voiceunlock_accessibility_voice_unlock">Дауысы құлыптан босатылды.</string>
+    <string name="dm_prompt">Терминал әлдеқашан құлыпталған</string>    
+    <string name="ppl_prompt">Құлыптан босату үшін Құпиялылықты қорғау құпия сөзін енгізіңіз. </string>
+    <string name="sd_accessing_swtich_user_title">Пайдаланушыны ауыстыру қажет пе?</string>
+    <string name="sd_accessing_swtich_user_message">Пайдаланушы тіркелгісіндегі барлық сақталмаған дерек жоғалады немесе зақымдалады.</string>
+</resources>
